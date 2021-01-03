@@ -1,0 +1,801 @@
+address,square_feet,url,price,price_per_sq_ft,status,number_of_beds,number_of_bathrooms
+"1333 Wessling Dr, Northbrook, IL 60062","2,862",https://www.zillow.com/homedetails/1333-Wessling-Dr-Northbrook-IL-60062/3332154_zpid/,"$425,000",148.49755415793152,Sold,4,2
+"10 The Court Of Hidden Bay, Northbrook, IL 60062","1,823",https://www.zillow.com/homedetails/10-The-Court-Of-Hidden-Bay-Northbrook-IL-60062/3333696_zpid/,"$350,000",191.99122325836532,Sold,2,2
+"3829 Medford Cir, Northbrook, IL 60062","3,422",https://www.zillow.com/homedetails/3829-Medford-Cir-Northbrook-IL-60062/3331784_zpid/,"$500,000",146.11338398597312,Sold,6,4
+"1914 Farnsworth Ln Unit 105, Northbrook, IL 60062","1,374",https://www.zillow.com/homedetails/1914-Farnsworth-Ln-UNIT-105-Northbrook-IL-60062/70452698_zpid/,"$280,000",203.78457059679766,Sold,2,2
+"1745 Pondside Dr, Northbrook, IL 60062","2,738",https://www.zillow.com/homedetails/1745-Pondside-Dr-Northbrook-IL-60062/3338782_zpid/,"$600,000",219.1380569758948,Sold,5,3
+"1440 Sycamore Ln, Northbrook, IL 60062","2,007",https://www.zillow.com/homedetails/1440-Sycamore-Ln-Northbrook-IL-60062/3336946_zpid/,"$435,000",216.74140508221225,Sold,3,2
+"2025 Maplewood Rd, Northbrook, IL 60062","3,239",https://www.zillow.com/homedetails/2025-Maplewood-Rd-Northbrook-IL-60062/3329416_zpid/,"$735,000",226.9218894720593,Sold,4,5
+"1780 Central Ave, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1780-Central-Ave-Northbrook-IL-60062/3340078_zpid/,"$346,000",314.54545454545456,Sold,4,2
+"2865 Hillcrest Ln, Northbrook, IL 60062","3,023",https://www.zillow.com/homedetails/2865-Hillcrest-Ln-Northbrook-IL-60062/3333845_zpid/,"$778,000",257.36023817399933,Sold,3,4
+"2430 Cobblewood Dr, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/2430-Cobblewood-Dr-Northbrook-IL-60062/3343475_zpid/,"$445,000",139.0625,Sold,4,3
+"245 Arrowwood Dr, Northbrook, IL 60062","2,100",https://www.zillow.com/homedetails/245-Arrowwood-Dr-Northbrook-IL-60062/3279180_zpid/,"$390,000",185.71428571428572,Sold,2,2
+"1814 Maple Ave, Northbrook, IL 60062","1,711",https://www.zillow.com/homedetails/1814-Maple-Ave-Northbrook-IL-60062/3336801_zpid/,"$560,000",327.2939801285798,Sold,3,2
+"3718 Provenance Way, Northbrook, IL 60062","2,081",https://www.zillow.com/homedetails/3718-Provenance-Way-Northbrook-IL-60062/306331775_zpid/,"$476,057",228.76357520422874,Sold,3,3
+"1712 Illinois Rd, Northbrook, IL 60062","1,218",https://www.zillow.com/homedetails/1712-Illinois-Rd-Northbrook-IL-60062/3336919_zpid/,"$336,500",276.27257799671594,Sold,3,1
+"1531 Spruce St, Northbrook, IL 60062","2,036",https://www.zillow.com/homedetails/1531-Spruce-St-Northbrook-IL-60062/3336904_zpid/,"$452,500",222.24950884086445,Sold,3,2
+"1010 Spring Hill Dr #402, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/1010-Spring-Hill-Dr-402-Northbrook-IL-60062/3332795_zpid/,"$268,000",148.88888888888889,Sold,2,3
+"814 Colonnades Dr, Northbrook, IL 60062","1,991",https://www.zillow.com/homedetails/814-Colonnades-Dr-Northbrook-IL-60062/3337256_zpid/,"$320,000",160.7232546459066,Sold,3,3
+"1126 Voltz Rd, Northbrook, IL 60062","4,300",https://www.zillow.com/homedetails/1126-Voltz-Rd-Northbrook-IL-60062/3337727_zpid/,"$959,000",223.02325581395348,Sold,5,5
+"1652 Longvalley Dr, Northbrook, IL 60062","2,663",https://www.zillow.com/homedetails/1652-Longvalley-Dr-Northbrook-IL-60062/3340231_zpid/,"$450,000",168.98235073225686,Sold,4,3
+"3841 Medford Cir, Northbrook, IL 60062","3,422",https://www.zillow.com/homedetails/3841-Medford-Cir-Northbrook-IL-60062/3331786_zpid/,"$695,000",203.09760374050262,Sold,5,3
+"1561 Woodview Ln, Northbrook, IL 60062","3,759",https://www.zillow.com/homedetails/1561-Woodview-Ln-Northbrook-IL-60062/253422524_zpid/,$1.25M,332.53524873636604,Sold,3,4
+"1120 Saranac Ln, Northbrook, IL 60062","2,009",https://www.zillow.com/homedetails/1120-Saranac-Ln-Northbrook-IL-60062/3334353_zpid/,"$480,000",238.9248382279741,Sold,3,2
+"3852 S Parkway Dr Apt 2a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3852-S-Parkway-Dr-APT-2A-Northbrook-IL-60062/2113264851_zpid/,"$123,000",123000.0,Sold,2,1
+"2555 Brian Dr, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/2555-Brian-Dr-Northbrook-IL-60062/3343495_zpid/,"$442,000",147.33333333333334,Sold,4,3
+"25 The Court Of Greenway, Northbrook, IL 60062","1,759",https://www.zillow.com/homedetails/25-The-Court-Of-Greenway-Northbrook-IL-60062/3332572_zpid/,"$325,000",184.7640704945992,Sold,2,2
+"2450 Cobblewood Dr, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/2450-Cobblewood-Dr-Northbrook-IL-60062/3343413_zpid/,"$340,000",212.5,Sold,3,3
+"2060 Shermer Rd, Northbrook, IL 60062","1,624",https://www.zillow.com/homedetails/2060-Shermer-Rd-Northbrook-IL-60062/3339777_zpid/,"$325,000",200.1231527093596,Sold,4,2
+"1731 Mission Hills Rd, Northbrook, IL 60062","2,155",https://www.zillow.com/homedetails/1731-Mission-Hills-Rd-Northbrook-IL-60062/2079110413_zpid/,"$370,000",171.6937354988399,Sold,3,4
+"2247 Southbridge Ln, Northbrook, IL 60062","3,479",https://www.zillow.com/homedetails/2247-Southbridge-Ln-Northbrook-IL-60062/3339828_zpid/,"$790,000",227.07674619143432,Sold,6,3
+"1569 Suzann Ter, Northbrook, IL 60062","4,800",https://www.zillow.com/homedetails/1569-Suzann-Ter-Northbrook-IL-60062/3338714_zpid/,$1.21M,252.08333333333334,Sold,6,7
+"1246 Western Ave, Northbrook, IL 60062","2,654",https://www.zillow.com/homedetails/1246-Western-Ave-Northbrook-IL-60062/3334851_zpid/,"$680,000",256.2170308967596,Sold,4,3
+"3702 Radcliffe Dr, Northbrook, IL 60062","2,372",https://www.zillow.com/homedetails/3702-Radcliffe-Dr-Northbrook-IL-60062/3332492_zpid/,"$547,500",230.81787521079258,Sold,4,2
+"4000 Dundee Rd #109b, Northbrook, IL 60062","1,260",https://www.zillow.com/homedetails/4000-Dundee-Rd-109B-Northbrook-IL-60062/3330926_zpid/,"$175,000",138.88888888888889,Sold,2,2
+"2150 Valencia Dr Apt 111a, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2150-Valencia-Dr-APT-111A-Northbrook-IL-60062/3343823_zpid/,"$189,000",157.5,Sold,2,2
+"2243 Illinois Rd, Northbrook, IL 60062","1,096",https://www.zillow.com/homedetails/2243-Illinois-Rd-Northbrook-IL-60062/3335674_zpid/,$1.03M,939.7810218978102,Sold,5,5
+"1932 Summerton Pl, Northbrook, IL 60062","2,000",https://www.zillow.com/homedetails/1932-Summerton-Pl-Northbrook-IL-60062/3339499_zpid/,"$335,000",167.5,Sold,3,2
+"17 Timber Ln, Northbrook, IL 60062","2,031",https://www.zillow.com/homedetails/17-Timber-Ln-Northbrook-IL-60062/3336252_zpid/,"$590,000",290.49729197439683,Sold,3,3
+"1740 Ellendale Dr, Northbrook, IL 60062","3,161",https://www.zillow.com/homedetails/1740-Ellendale-Dr-Northbrook-IL-60062/3339060_zpid/,"$735,000",232.52135400189815,Sold,5,4
+"2655 Woodland Dr, Northbrook, IL 60062","3,447",https://www.zillow.com/homedetails/2655-Woodland-Dr-Northbrook-IL-60062/3339703_zpid/,"$625,000",181.31708732230925,Sold,5,4
+"1470 Juli Lyn Ln, Northbrook, IL 60062","3,253",https://www.zillow.com/homedetails/1470-Juli-Lyn-Ln-Northbrook-IL-60062/3332053_zpid/,"$491,250",151.01444820166,Sold,4,4
+"1949 Milton Ave, Northbrook, IL 60062","1,110",https://www.zillow.com/homedetails/1949-Milton-Ave-Northbrook-IL-60062/3336046_zpid/,"$310,000",279.27927927927925,Sold,3,1
+"227 Voltz Rd, Northbrook, IL 60062","2,098",https://www.zillow.com/homedetails/227-Voltz-Rd-Northbrook-IL-60062/3338214_zpid/,"$335,000",159.67588179218302,Sold,3,3
+"334 Chipili Dr, Northbrook, IL 60062","1,409",https://www.zillow.com/homedetails/334-Chipili-Dr-Northbrook-IL-60062/3338067_zpid/,"$299,000",212.2072391767211,Sold,3,2
+"1331 Pfingsten Rd, Northbrook, IL 60062","4,200",https://www.zillow.com/homedetails/1331-Pfingsten-Rd-Northbrook-IL-60062/3334805_zpid/,"$722,000",171.9047619047619,Sold,5,5
+"3085 Pheasant Creek Dr Apt 314, Northbrook, IL 60062",825,https://www.zillow.com/homedetails/3085-Pheasant-Creek-Dr-APT-314-Northbrook-IL-60062/3332776_zpid/,"$155,000",187.87878787878788,Sold,1, 
+"1795 Pondside Dr, Northbrook, IL 60062","3,064",https://www.zillow.com/homedetails/1795-Pondside-Dr-Northbrook-IL-60062/3338777_zpid/,"$610,000",199.08616187989557,Sold,4,3
+"3030 Pheasant Creek Dr Apt 103, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3030-Pheasant-Creek-Dr-APT-103-Northbrook-IL-60062/2084991818_zpid/,"$139,000",139000.0,Sold,2,2
+"1868 Mission Hills Ln, Northbrook, IL 60062","2,060",https://www.zillow.com/homedetails/1868-Mission-Hills-Ln-Northbrook-IL-60062/2078775184_zpid/,"$360,000",174.75728155339806,Sold,3,3
+"2814 Brindle Ct, Northbrook, IL 60062","2,194",https://www.zillow.com/homedetails/2814-Brindle-Ct-Northbrook-IL-60062/3333043_zpid/,"$295,000",134.45761166818596,Sold,3,3
+"1337 Southwind Dr, Northbrook, IL 60062","3,139",https://www.zillow.com/homedetails/1337-Southwind-Dr-Northbrook-IL-60062/3332417_zpid/,"$640,000",203.8865880853775,Sold,5,4
+"925 Spring Hill Dr Apt 311, Northbrook, IL 60062",,https://www.zillow.com/homedetails/925-Spring-Hill-Dr-APT-311-Northbrook-IL-60062/2078880825_zpid/,"$150,000",150000.0,Sold,2,2
+"936 Spring Hill Dr, Northbrook, IL 60062","1,750",https://www.zillow.com/homedetails/936-Spring-Hill-Dr-Northbrook-IL-60062/3332616_zpid/,"$310,000",177.14285714285714,Sold,3,3
+"1781 Tudor Ln Unit 202, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1781-Tudor-Ln-UNIT-202-Northbrook-IL-60062/70452573_zpid/,"$362,000",362000.0,Sold,2,2
+"1533 Shermer Rd, Northbrook, IL 60062",867,https://www.zillow.com/homedetails/1533-Shermer-Rd-Northbrook-IL-60062/3336880_zpid/,"$225,000",259.51557093425606,Sold,2,1
+"4040 Greenacre Dr, Northbrook, IL 60062","4,800",https://www.zillow.com/homedetails/4040-Greenacre-Dr-Northbrook-IL-60062/3331532_zpid/,"$840,000",175.0,Sold,5,5
+"1227 Eastwood Ln, Northbrook, IL 60062","5,031",https://www.zillow.com/homedetails/1227-Eastwood-Ln-Northbrook-IL-60062/3336499_zpid/,$1.36M,270.3239912542238,Sold,6,6
+"1247 Hillside Dr, Northbrook, IL 60062","4,365",https://www.zillow.com/homedetails/1247-Hillside-Dr-Northbrook-IL-60062/3336530_zpid/,$1.19M,272.62313860252004,Sold,5,6
+"4227 Ridgeland Ln, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/4227-Ridgeland-Ln-Northbrook-IL-60062/3332126_zpid/,"$520,000",173.33333333333334,Sold,4,4
+"3852 N Parkway Dr #3a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3852-N-Parkway-Dr-3A-Northbrook-IL-60062/2078196045_zpid/,"$115,000",115000.0,Sold,2,1
+"40 Bridlewood Ln, Northbrook, IL 60062","10,108",https://www.zillow.com/homedetails/40-Bridlewood-Ln-Northbrook-IL-60062/3337688_zpid/,$1.44M,142.46141669964385,Sold,6,8
+"1143 Adams St, Northbrook, IL 60062","3,037",https://www.zillow.com/homedetails/1143-Adams-St-Northbrook-IL-60062/159463785_zpid/,"$542,500",178.63022719789265,Sold,3,3
+"606 Dauphine Ave, Northbrook, IL 60062","3,400",https://www.zillow.com/homedetails/606-Dauphine-Ave-Northbrook-IL-60062/3331289_zpid/,"$785,000",230.88235294117646,Sold,5,3
+"1220 Rudolph Rd Apt 5k, Northbrook, IL 60062","1,672",https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-5K-Northbrook-IL-60062/3329695_zpid/,"$275,000",164.47368421052633,Sold,2,2
+"837 Bittersweet Dr, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/837-Bittersweet-Dr-Northbrook-IL-60062/3336296_zpid/,"$425,000",265.625,Sold,3,2
+"1001 Hillside Dr, Northbrook, IL 60062","1,844",https://www.zillow.com/homedetails/1001-Hillside-Dr-Northbrook-IL-60062/3336455_zpid/,"$490,000",265.72668112798266,Sold,3,2
+"1448 Ridge Rd, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/1448-Ridge-Rd-Northbrook-IL-60062/3336399_zpid/,"$725,000",226.5625,Sold,4,3
+"3110 Pheasant Creek Dr Apt 214, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-APT-214-Northbrook-IL-60062/2081171131_zpid/,"$171,000",142.5,Sold,2,2
+"3750 Greenleaf Dr, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/3750-Greenleaf-Dr-Northbrook-IL-60062/3349767_zpid/,"$270,000",158.8235294117647,Sold,3,2
+"2540 Salceda Dr, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/2540-Salceda-Dr-Northbrook-IL-60062/3343686_zpid/,"$300,000",93.75,Sold,4,3
+"2966 Acorn Ln, Northbrook, IL 60062","3,108",https://www.zillow.com/homedetails/2966-Acorn-Ln-Northbrook-IL-60062/3333234_zpid/,"$520,000",167.31016731016732,Sold,4,3
+"3831 Dauphine Ave, Northbrook, IL 60062","3,018",https://www.zillow.com/homedetails/3831-Dauphine-Ave-Northbrook-IL-60062/3331336_zpid/,"$509,000",168.6547382372432,Sold,4,3
+"1933 Walnut Cir, Northbrook, IL 60062","3,530",https://www.zillow.com/homedetails/1933-Walnut-Cir-Northbrook-IL-60062/3329506_zpid/,"$517,500",146.60056657223797,Sold,4,3
+"221 Hickory Ct, Northbrook, IL 60062","5,457",https://www.zillow.com/homedetails/221-Hickory-Ct-Northbrook-IL-60062/3329568_zpid/,$1.24M,227.2310793476269,Sold,6,7
+"1036 Blackthorn Ln, Northbrook, IL 60062","1,852",https://www.zillow.com/homedetails/1036-Blackthorn-Ln-Northbrook-IL-60062/3334492_zpid/,"$470,000",253.77969762419008,Sold,3,2
+"2383 Asbury Rd, Northbrook, IL 60062","5,550",https://www.zillow.com/homedetails/2383-Asbury-Rd-Northbrook-IL-60062/3339393_zpid/,$1.20M,216.21621621621622,Sold,5,5
+"2091 2nd St, Northbrook, IL 60062","1,047",https://www.zillow.com/homedetails/2091-2nd-St-Northbrook-IL-60062/3339772_zpid/,"$410,000",391.5950334288443,Sold,0,a
+"500 Voltz Rd, Northbrook, IL 60062","9,748",https://www.zillow.com/homedetails/500-Voltz-Rd-Northbrook-IL-60062/3338637_zpid/,$1.93M,197.9893311448502,Sold,7,1
+"2005 Valencia Dr Apt 110d, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2005-Valencia-Dr-APT-110D-Northbrook-IL-60062/3343990_zpid/,"$135,000",135000.0,Sold,1, 
+"2243 Woodlawn Rd, Northbrook, IL 60062","6,892",https://www.zillow.com/homedetails/2243-Woodlawn-Rd-Northbrook-IL-60062/65538009_zpid/,$1.91M,277.1329077190946,Sold,6,8
+"2299 Pfingsten Rd, Northbrook, IL 60062","1,944",https://www.zillow.com/homedetails/2299-Pfingsten-Rd-Northbrook-IL-60062/3339663_zpid/,"$397,000",204.21810699588477,Sold,4,3
+"2 The Court Of Harborside Apt 101, Northbrook, IL 60062","1,450",https://www.zillow.com/homedetails/2-The-Court-Of-Harborside-APT-101-Northbrook-IL-60062/3333440_zpid/,"$210,000",144.82758620689654,Sold,2,2
+"1810 South Ln, Northbrook, IL 60062","4,400",https://www.zillow.com/homedetails/1810-South-Ln-Northbrook-IL-60062/3338551_zpid/,"$875,000",198.86363636363637,Sold,5,5
+"3175 Cherry Ln, Northbrook, IL 60062","1,680",https://www.zillow.com/homedetails/3175-Cherry-Ln-Northbrook-IL-60062/3333884_zpid/,"$670,000",398.8095238095238,Sold,4,4
+"2284 Scott Rd, Northbrook, IL 60062","4,716",https://www.zillow.com/homedetails/2284-Scott-Rd-Northbrook-IL-60062/3339322_zpid/,"$625,000",132.52756573367262,Sold,5,4
+"2965 Keystone Rd, Northbrook, IL 60062","2,826",https://www.zillow.com/homedetails/2965-Keystone-Rd-Northbrook-IL-60062/3340276_zpid/,"$645,000",228.23779193205945,Sold,5,4
+"834 Western Ave, Northbrook, IL 60062","2,548",https://www.zillow.com/homedetails/834-Western-Ave-Northbrook-IL-60062/3334314_zpid/,"$481,831",189.10164835164835,Sold,4,3
+"724 Charlemagne Dr, Northbrook, IL 60062","3,481",https://www.zillow.com/homedetails/724-Charlemagne-Dr-Northbrook-IL-60062/3331355_zpid/,"$750,000",215.45532892846884,Sold,6,4
+"1805 Central Ave, Northbrook, IL 60062","1,263",https://www.zillow.com/homedetails/1805-Central-Ave-Northbrook-IL-60062/3340090_zpid/,"$372,000",294.5368171021378,Sold,4,2
+"1971 Penfold Pl, Northbrook, IL 60062","5,643",https://www.zillow.com/homedetails/1971-Penfold-Pl-Northbrook-IL-60062/3339488_zpid/,$1.26M,223.2854864433812,Sold,6,7
+"2750 The Mews, Northbrook, IL 60062","2,100",https://www.zillow.com/homedetails/2750-The-Mews-Northbrook-IL-60062/2096446388_zpid/,"$350,000",166.66666666666666,Sold,3,3
+"1211 Western Ave, Northbrook, IL 60062","3,250",https://www.zillow.com/homedetails/1211-Western-Ave-Northbrook-IL-60062/70452556_zpid/,"$665,000",204.6153846153846,Sold,4,3
+"302 Basswood Dr, Northbrook, IL 60062","2,355",https://www.zillow.com/homedetails/302-Basswood-Dr-Northbrook-IL-60062/3279124_zpid/,"$400,000",169.85138004246284,Sold,3,3
+"1701 Ferndale Ave, Northbrook, IL 60062","1,850",https://www.zillow.com/homedetails/1701-Ferndale-Ave-Northbrook-IL-60062/2079594465_zpid/,"$430,000",232.43243243243242,Sold,3,3
+"1932 Penfold Pl, Northbrook, IL 60062","3,696",https://www.zillow.com/homedetails/1932-Penfold-Pl-Northbrook-IL-60062/3339472_zpid/,$1.10M,297.6190476190476,Sold,4,4
+"2815 Highland Rd, Northbrook, IL 60062","2,605",https://www.zillow.com/homedetails/2815-Highland-Rd-Northbrook-IL-60062/3342431_zpid/,"$554,000",212.66794625719768,Sold,3,3
+"1805 Somerset Ln, Northbrook, IL 60062","1,542",https://www.zillow.com/homedetails/1805-Somerset-Ln-Northbrook-IL-60062/3339234_zpid/,"$290,000",188.0674448767834,Sold,2,3
+"4003 Yorkshire Ln, Northbrook, IL 60062","3,422",https://www.zillow.com/homedetails/4003-Yorkshire-Ln-Northbrook-IL-60062/3331577_zpid/,"$670,000",195.79193454120397,Sold,5,4
+"3801 Mission Hills Rd Apt 209, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-209-Northbrook-IL-60062/2086451832_zpid/,"$200,000",148.14814814814815,Sold,2,2
+"2120 Dehne Rd, Northbrook, IL 60062","3,124",https://www.zillow.com/homedetails/2120-Dehne-Rd-Northbrook-IL-60062/3339340_zpid/,"$549,000",175.73623559539053,Sold,5,3
+"2628 Woodlawn Rd, Northbrook, IL 60062","2,472",https://www.zillow.com/homedetails/2628-Woodlawn-Rd-Northbrook-IL-60062/3338804_zpid/,"$574,500",232.40291262135923,Sold,4,3
+"1250 Rudolph Rd Apt 5n, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1250-Rudolph-Rd-APT-5N-Northbrook-IL-60062/2090866591_zpid/,"$245,000",222.72727272727272,Sold,2,1
+"1280 Rudolph Rd #4a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1280-Rudolph-Rd-4A-Northbrook-IL-60062/3329813_zpid/,"$315,000",315000.0,Sold,2,2
+"1716 Longvalley Dr, Northbrook, IL 60062","3,020",https://www.zillow.com/homedetails/1716-Longvalley-Dr-Northbrook-IL-60062/3339930_zpid/,"$638,000",211.25827814569536,Sold,4,3
+"101 Pointe Dr Unit 105, Northbrook, IL 60062","1,344",https://www.zillow.com/homedetails/101-Pointe-Dr-UNIT-105-Northbrook-IL-60062/2122711529_zpid/,"$245,000",182.29166666666666,Sold,2,2
+"1220 Rudolph Rd Apt 4a, Northbrook, IL 60062","1,810",https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-4A-Northbrook-IL-60062/3329672_zpid/,"$350,000",193.37016574585635,Sold,2,2
+"1275 Shermer Rd, Northbrook, IL 60062","2,392",https://www.zillow.com/homedetails/1275-Shermer-Rd-Northbrook-IL-60062/2082271111_zpid/,"$653,513",273.20777591973246,Sold,3,4
+"560 Pfingsten Rd, Northbrook, IL 60062","1,316",https://www.zillow.com/homedetails/560-Pfingsten-Rd-Northbrook-IL-60062/3330547_zpid/,"$174,000",132.21884498480244,Sold,0,a
+"2324 Oak Ave, Northbrook, IL 60062","2,373",https://www.zillow.com/homedetails/2324-Oak-Ave-Northbrook-IL-60062/3335455_zpid/,"$652,000",274.75769068689425,Sold,4,3
+"1836 Trails Edge Dr, Northbrook, IL 60062","3,391",https://www.zillow.com/homedetails/1836-Trails-Edge-Dr-Northbrook-IL-60062/3338685_zpid/,"$952,500",280.89059274550283,Sold,5,5
+"2624 Cherry Ln, Northbrook, IL 60062","2,930",https://www.zillow.com/homedetails/2624-Cherry-Ln-Northbrook-IL-60062/3334363_zpid/,"$620,111",211.6419795221843,Sold,4,3
+"3860 Mission Hills Rd Apt 112, Northbrook, IL 60062","1,820",https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-APT-112-Northbrook-IL-60062/3341881_zpid/,"$286,000",157.14285714285714,Sold,2,2
+"1649 Central Ave, Northbrook, IL 60062","3,240",https://www.zillow.com/homedetails/1649-Central-Ave-Northbrook-IL-60062/3340005_zpid/,"$587,000",181.17283950617283,Sold,5,5
+"3315 Prestwick Ln, Northbrook, IL 60062","2,839",https://www.zillow.com/homedetails/3315-Prestwick-Ln-Northbrook-IL-60062/3333641_zpid/,"$617,000",217.3300457907714,Sold,4,3
+"1034 Cobblestone Ct, Northbrook, IL 60062","2,639",https://www.zillow.com/homedetails/1034-Cobblestone-Ct-Northbrook-IL-60062/3329211_zpid/,"$675,000",255.77870405456613,Sold,4,3
+"1630 Ferndale Ave, Northbrook, IL 60062","2,085",https://www.zillow.com/homedetails/1630-Ferndale-Ave-Northbrook-IL-60062/3335750_zpid/,"$435,000",208.63309352517985,Sold,4,4
+"1770 Seton Rd, Northbrook, IL 60062","2,610",https://www.zillow.com/homedetails/1770-Seton-Rd-Northbrook-IL-60062/3329366_zpid/,"$280,000",107.27969348659003,Sold,3,3
+"3085 Pheasant Creek Dr Apt 303, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/3085-Pheasant-Creek-Dr-APT-303-Northbrook-IL-60062/3332766_zpid/,"$164,000",121.48148148148148,Sold,2,2
+"2514 Steven Ln, Northbrook, IL 60062","5,772",https://www.zillow.com/homedetails/2514-Steven-Ln-Northbrook-IL-60062/49913455_zpid/,"$869,000",150.55440055440056,Sold,5,5
+"1955 Clover Rd, Northbrook, IL 60062","2,898",https://www.zillow.com/homedetails/1955-Clover-Rd-Northbrook-IL-60062/3340365_zpid/,"$593,000",204.623878536922,Sold,4,3
+"1312 Edgewood Ln, Northbrook, IL 60062","3,439",https://www.zillow.com/homedetails/1312-Edgewood-Ln-Northbrook-IL-60062/3337650_zpid/,"$820,000",238.441407385868,Sold,5,5
+"3787 Walters Ave, Northbrook, IL 60062","3,300",https://www.zillow.com/homedetails/3787-Walters-Ave-Northbrook-IL-60062/3332220_zpid/,"$892,000",270.3030303030303,Sold,5,4
+"31 Bridlewood Rd, Northbrook, IL 60062","4,813",https://www.zillow.com/homedetails/31-Bridlewood-Rd-Northbrook-IL-60062/3337685_zpid/,$1.26M,261.79098275503844,Sold,5,3
+"2136 Ash Ln, Northbrook, IL 60062","2,988",https://www.zillow.com/homedetails/2136-Ash-Ln-Northbrook-IL-60062/3334712_zpid/,"$940,500",314.7590361445783,Sold,5,5
+"40 The Court Of Cobblestone, Northbrook, IL 60062","2,479",https://www.zillow.com/homedetails/40-The-Court-Of-Cobblestone-Northbrook-IL-60062/3333332_zpid/,"$434,000",175.07059298104073,Sold,3,3
+"207 Trailwood Ln, Northbrook, IL 60062","3,164",https://www.zillow.com/homedetails/207-Trailwood-Ln-Northbrook-IL-60062/3330869_zpid/,"$559,000",176.67509481668773,Sold,4,4
+"3764 Whirlaway Dr, Northbrook, IL 60062","3,364",https://www.zillow.com/homedetails/3764-Whirlaway-Dr-Northbrook-IL-60062/3342331_zpid/,"$660,000",196.19500594530322,Sold,7,4
+"2347 Crystal Rd #22-b2, Northbrook, IL 60062","1,835",https://www.zillow.com/homedetails/2347-Crystal-Rd-22-B2-Northbrook-IL-60062/65548899_zpid/,"$350,000",190.7356948228883,Sold,3,3
+"2900 Woodmere Dr, Northbrook, IL 60062","4,829",https://www.zillow.com/homedetails/2900-Woodmere-Dr-Northbrook-IL-60062/3341074_zpid/,"$810,000",167.73659142679645,Sold,5,6
+"3004 Moon Hill Dr, Northbrook, IL 60062","2,532",https://www.zillow.com/homedetails/3004-Moon-Hill-Dr-Northbrook-IL-60062/3333207_zpid/,"$530,000",209.32069510268562,Sold,3,3
+"2213 Wyndance Way, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/2213-Wyndance-Way-Northbrook-IL-60062/58355975_zpid/,"$700,000",233.33333333333334,Sold,3,3
+"620 Charlemagne Dr, Northbrook, IL 60062","3,481",https://www.zillow.com/homedetails/620-Charlemagne-Dr-Northbrook-IL-60062/3331331_zpid/,"$735,000",211.14622234989946,Sold,5,5
+"2032 Brentwood Rd, Northbrook, IL 60062","2,100",https://www.zillow.com/homedetails/2032-Brentwood-Rd-Northbrook-IL-60062/3339291_zpid/,"$572,500",272.6190476190476,Sold,4,3
+"2818 Dundee Rd Unit 3a, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2818-Dundee-Rd-UNIT-3A-Northbrook-IL-60062/3330603_zpid/,"$130,000",108.33333333333333,Sold,2,1
+"3741 Mission Hills Rd Apt 312, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/3741-Mission-Hills-Rd-APT-312-Northbrook-IL-60062/3341607_zpid/,"$220,000",91.66666666666667,Sold,3,3
+"2405 Auburn Ln, Northbrook, IL 60062","3,309",https://www.zillow.com/homedetails/2405-Auburn-Ln-Northbrook-IL-60062/3342655_zpid/,"$580,000",175.27954064672107,Sold,4,3
+"228 Elm Ct, Northbrook, IL 60062","4,500",https://www.zillow.com/homedetails/228-Elm-Ct-Northbrook-IL-60062/3329495_zpid/,"$750,000",166.66666666666666,Sold,4,5
+"1002 Longaker Rd, Northbrook, IL 60062","1,396",https://www.zillow.com/homedetails/1002-Longaker-Rd-Northbrook-IL-60062/3337464_zpid/,"$440,000",315.1862464183381,Sold,4,3
+"235 Old Post Rd, Northbrook, IL 60062","2,595",https://www.zillow.com/homedetails/235-Old-Post-Rd-Northbrook-IL-60062/3329150_zpid/,"$625,000",240.84778420038535,Sold,4,3
+"1429 Waukegan Rd, Northbrook, IL 60062","1,624",https://www.zillow.com/homedetails/1429-Waukegan-Rd-Northbrook-IL-60062/3337116_zpid/,"$375,000",230.9113300492611,Sold,4,3
+"4050 Dundee Rd Apt 204, Northbrook, IL 60062",,https://www.zillow.com/homedetails/4050-Dundee-Rd-APT-204-Northbrook-IL-60062/2078945796_zpid/,"$172,000",172000.0,Sold,2,2
+"1010 Woodbine Ln, Northbrook, IL 60062","3,700",https://www.zillow.com/homedetails/1010-Woodbine-Ln-Northbrook-IL-60062/3334386_zpid/,$1.14M,308.1081081081081,Sold,4,5
+"4345 Lindenwood Ln, Northbrook, IL 60062","2,812",https://www.zillow.com/homedetails/4345-Lindenwood-Ln-Northbrook-IL-60062/3330693_zpid/,"$630,000",224.0398293029872,Sold,5,4
+"1800 Mission Hills Rd Apt 210, Northbrook, IL 60062","2,350",https://www.zillow.com/homedetails/1800-Mission-Hills-Rd-APT-210-Northbrook-IL-60062/3341724_zpid/,"$237,500",101.06382978723404,Sold,2,3
+"1121 Cayuga Dr, Northbrook, IL 60062","2,381",https://www.zillow.com/homedetails/1121-Cayuga-Dr-Northbrook-IL-60062/3333178_zpid/,"$540,000",226.79546409071818,Sold,4,3
+"13 The Court Of Lagoon Vw, Northbrook, IL 60062","2,280",https://www.zillow.com/homedetails/13-The-Court-Of-Lagoon-Vw-Northbrook-IL-60062/3333679_zpid/,"$397,000",174.12280701754386,Sold,3,3
+"1688 Mission Hills Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1688-Mission-Hills-Rd-Northbrook-IL-60062/3341304_zpid/,"$400,000",400000.0,Sold,3,3
+"1261 Country Ln, Northbrook, IL 60062","4,760",https://www.zillow.com/homedetails/1261-Country-Ln-Northbrook-IL-60062/3337133_zpid/,$1.11M,233.19327731092437,Sold,5,5
+"1970 Big Oak Ln, Northbrook, IL 60062","3,039",https://www.zillow.com/homedetails/1970-Big-Oak-Ln-Northbrook-IL-60062/3336203_zpid/,"$980,000",322.47449819019414,Sold,5,5
+"1328 Wessling Dr, Northbrook, IL 60062","2,255",https://www.zillow.com/homedetails/1328-Wessling-Dr-Northbrook-IL-60062/3332398_zpid/,"$514,000",227.9379157427938,Sold,4,3
+"2527 Windsor Ln, Northbrook, IL 60062","1,924",https://www.zillow.com/homedetails/2527-Windsor-Ln-Northbrook-IL-60062/3343783_zpid/,"$325,000",168.9189189189189,Sold,4,3
+"1935 Kingsley Lot 18.01, Northbrook, IL 60062","2,509",https://www.zillow.com/homedetails/1935-Kingsley-LOT-18-01-Northbrook-IL-60062/2079255800_zpid/,"$508,890",202.82582702271822,Sold,3,4
+"2428 Center Ave, Northbrook, IL 60062","2,810",https://www.zillow.com/homedetails/2428-Center-Ave-Northbrook-IL-60062/3334997_zpid/,"$905,000",322.06405693950177,Sold,4,5
+"2139 Maple Ave, Northbrook, IL 60062","1,644",https://www.zillow.com/homedetails/2139-Maple-Ave-Northbrook-IL-60062/3335506_zpid/,"$510,000",310.2189781021898,Sold,3,3
+"1235 Western Ave, Northbrook, IL 60062","6,396",https://www.zillow.com/homedetails/1235-Western-Ave-Northbrook-IL-60062/3335247_zpid/,$1.17M,182.9268292682927,Sold,6,6
+"2015 Farnsworth Ln, Northbrook, IL 60062","1,138",https://www.zillow.com/homedetails/2015-Farnsworth-Ln-Northbrook-IL-60062/3339285_zpid/,"$305,000",268.0140597539543,Sold,3,2
+"3900 Mission Hills Rd Apt 408, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/3900-Mission-Hills-Rd-APT-408-Northbrook-IL-60062/3341925_zpid/,"$525,000",218.75,Sold,2,3
+"1195 Long Meadow Rd, Northbrook, IL 60062","3,320",https://www.zillow.com/homedetails/1195-Long-Meadow-Rd-Northbrook-IL-60062/3329037_zpid/,"$520,000",156.6265060240964,Sold,4,4
+"3641 Indian Wells Ln, Northbrook, IL 60062","3,636",https://www.zillow.com/homedetails/3641-Indian-Wells-Ln-Northbrook-IL-60062/3331970_zpid/,"$645,000",177.3927392739274,Sold,6,5
+"1871 Penfold Pl, Northbrook, IL 60062","3,565",https://www.zillow.com/homedetails/1871-Penfold-Pl-Northbrook-IL-60062/3339480_zpid/,$1.06M,297.3352033660589,Sold,5,6
+"3860 Mission Hills Rd Apt 412, Northbrook, IL 60062","1,820",https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-APT-412-Northbrook-IL-60062/3341929_zpid/,"$235,000",129.12087912087912,Sold,2,2
+"1871 Penfold Pl, Northbrook, IL 60062","3,565",https://www.zillow.com/homedetails/1871-Penfold-Pl-Northbrook-IL-60062/3339480_zpid/,$1.06M,297.3352033660589,Sold,5,6
+"1118 Butternut Ln, Northbrook, IL 60062","5,038",https://www.zillow.com/homedetails/1118-Butternut-Ln-Northbrook-IL-60062/3334565_zpid/,$1.08M,214.37078205637158,Sold,6,5
+"1144 Briarwood Ln, Northbrook, IL 60062","2,800",https://www.zillow.com/homedetails/1144-Briarwood-Ln-Northbrook-IL-60062/3334542_zpid/,"$500,000",178.57142857142858,Sold,5,4
+"1042 Butternut Ln, Northbrook, IL 60062","4,500",https://www.zillow.com/homedetails/1042-Butternut-Ln-Northbrook-IL-60062/3334559_zpid/,$1.19M,264.44444444444446,Sold,5,5
+"1220 Rudolph Rd Apt 1k, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-1K-Northbrook-IL-60062/2079008854_zpid/,"$302,500",302500.0,Sold,2,2
+"3900 Mission Hills Rd N Apt 103, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/3900-Mission-Hills-Rd-N-APT-103-Northbrook-IL-60062/3341872_zpid/,"$412,700",171.95833333333334,Sold,2,3
+"2355 Ridge Dr, Northbrook, IL 60062","3,622",https://www.zillow.com/homedetails/2355-Ridge-Dr-Northbrook-IL-60062/3340583_zpid/,"$620,000",171.17614577581446,Sold,0,a
+"1971 Butternut Ln, Northbrook, IL 60062","4,000",https://www.zillow.com/homedetails/1971-Butternut-Ln-Northbrook-IL-60062/3339463_zpid/,$1.00M,250.0,Sold,5,5
+"3840 Gregory Dr, Northbrook, IL 60062","3,504",https://www.zillow.com/homedetails/3840-Gregory-Dr-Northbrook-IL-60062/3349831_zpid/,"$665,000",189.78310502283105,Sold,4,4
+"1848 Trails Edge Dr, Northbrook, IL 60062","3,148",https://www.zillow.com/homedetails/1848-Trails-Edge-Dr-Northbrook-IL-60062/3338687_zpid/,"$600,000",190.59720457433292,Sold,5,4
+"1088 Shermer Rd Apt 104, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/1088-Shermer-Rd-APT-104-Northbrook-IL-60062/3335823_zpid/,"$295,000",196.66666666666666,Sold,2,2
+"3801 Mission Hills Rd Apt 507, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-507-Northbrook-IL-60062/2080622894_zpid/,"$217,000",160.9792284866469,Sold,2,2
+"1044 Midway Rd, Northbrook, IL 60062","1,362",https://www.zillow.com/homedetails/1044-Midway-Rd-Northbrook-IL-60062/3337401_zpid/,"$325,000",238.61967694566815,Sold,3,2
+"3741 Mission Hills #312, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/3741-Mission-Hills-312-Northbrook-IL-60062/2078342527_zpid/,"$220,000",91.66666666666667,Sold,3,3
+"1918 Central Ave, Northbrook, IL 60062","1,690",https://www.zillow.com/homedetails/1918-Central-Ave-Northbrook-IL-60062/3339861_zpid/,"$353,000",208.87573964497042,Sold,3,2
+"841 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/841-Winchester-Ln-Northbrook-IL-60062/3333314_zpid/,"$400,000",155.94541910331384,Sold,4,3
+"3085 Pheasant Creek Dr Apt 311, Northbrook, IL 60062","1,307",https://www.zillow.com/homedetails/3085-Pheasant-Creek-Dr-APT-311-Northbrook-IL-60062/3332773_zpid/,"$224,750",171.95868400918133,Sold,2,2
+"1220 Rudolph Rd Apt 1h, Northbrook, IL 60062","2,300",https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-1H-Northbrook-IL-60062/2078978402_zpid/,"$330,000",143.47826086956522,Sold,3,3
+"3810 Mission Hills Rd Apt 303, Northbrook, IL 60062","2,350",https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-APT-303-Northbrook-IL-60062/3341733_zpid/,"$240,000",102.12765957446808,Sold,2,3
+"545 Alice Dr, Northbrook, IL 60062","1,101",https://www.zillow.com/homedetails/545-Alice-Dr-Northbrook-IL-60062/3330535_zpid/,"$270,000",245.2316076294278,Sold,0,a
+"1116 Hillside Dr, Northbrook, IL 60062","4,419",https://www.zillow.com/homedetails/1116-Hillside-Dr-Northbrook-IL-60062/3336387_zpid/,"$775,000",175.37904503281285,Sold,4,5
+"1604 Highland Ave, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/1604-Highland-Ave-Northbrook-IL-60062/3340014_zpid/,"$431,000",307.85714285714283,Sold,4,2
+"3530 Tamarind Dr, Northbrook, IL 60062","1,127",https://www.zillow.com/homedetails/3530-Tamarind-Dr-Northbrook-IL-60062/3330331_zpid/,"$295,000",261.75687666370897,Sold,3,2
+"3920 Gregory Dr, Northbrook, IL 60062","1,743",https://www.zillow.com/homedetails/3920-Gregory-Dr-Northbrook-IL-60062/3349788_zpid/,"$325,000",186.46012621916236,Sold,4,3
+"1853 Central Ave, Northbrook, IL 60062","5,000",https://www.zillow.com/homedetails/1853-Central-Ave-Northbrook-IL-60062/3340094_zpid/,"$250,000",50.0,Sold,6,5
+"914 Dorset Dr, Northbrook, IL 60062","3,733",https://www.zillow.com/homedetails/914-Dorset-Dr-Northbrook-IL-60062/3331555_zpid/,"$750,000",200.9107956067506,Sold,4,3
+"4126 Bristol Ct, Northbrook, IL 60062","4,030",https://www.zillow.com/homedetails/4126-Bristol-Ct-Northbrook-IL-60062/3331647_zpid/,"$800,000",198.51116625310175,Sold,5,5
+"2501 Virginia Ln, Northbrook, IL 60062","2,404",https://www.zillow.com/homedetails/2501-Virginia-Ln-Northbrook-IL-60062/3343801_zpid/,"$380,000",158.06988352745424,Sold,3,4
+"4120 Terri Lyn Ln, Northbrook, IL 60062","4,050",https://www.zillow.com/homedetails/4120-Terri-Lyn-Ln-Northbrook-IL-60062/3332022_zpid/,"$550,000",135.80246913580248,Sold,5,4
+"2021 Walters Ave, Northbrook, IL 60062","1,650",https://www.zillow.com/homedetails/2021-Walters-Ave-Northbrook-IL-60062/87694003_zpid/,"$229,000",138.78787878787878,Sold,2,2
+"1895 Mission Hills Ln, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1895-Mission-Hills-Ln-Northbrook-IL-60062/3341246_zpid/,"$403,500",403500.0,Sold,3,3
+"1311 Wildwood Ln, Northbrook, IL 60062","4,370",https://www.zillow.com/homedetails/1311-Wildwood-Ln-Northbrook-IL-60062/3337640_zpid/,"$671,000",153.54691075514873,Sold,4,3
+"1455 Shermer Rd Apt 302c, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1455-Shermer-Rd-APT-302C-Northbrook-IL-60062/3336721_zpid/,"$137,000",137000.0,Sold,1, 
+"1014 Sussex Dr, Northbrook, IL 60062","1,850",https://www.zillow.com/homedetails/1014-Sussex-Dr-Northbrook-IL-60062/3332809_zpid/,"$340,000",183.78378378378378,Sold,3,3
+"316 Southgate Dr, Northbrook, IL 60062","1,169",https://www.zillow.com/homedetails/316-Southgate-Dr-Northbrook-IL-60062/3338115_zpid/,"$308,000",263.47305389221555,Sold,3,2
+"1748 Seton Rd, Northbrook, IL 60062","2,424",https://www.zillow.com/homedetails/1748-Seton-Rd-Northbrook-IL-60062/3329357_zpid/,"$395,000",162.95379537953795,Sold,3,3
+"3914 Medford Cir, Northbrook, IL 60062","3,244",https://www.zillow.com/homedetails/3914-Medford-Cir-Northbrook-IL-60062/3331885_zpid/,"$548,000",168.9272503082614,Sold,5,3
+"3063 Pheasant Creek Dr, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/3063-Pheasant-Creek-Dr-Northbrook-IL-60062/3332848_zpid/,"$350,000",194.44444444444446,Sold,3,3
+"1549 Shermer Rd, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/1549-Shermer-Rd-Northbrook-IL-60062/3336885_zpid/,"$230,000",164.28571428571428,Sold,3,1
+"1709 Longvalley Dr, Northbrook, IL 60062","2,241",https://www.zillow.com/homedetails/1709-Longvalley-Dr-Northbrook-IL-60062/3340188_zpid/,"$526,000",234.71664435519858,Sold,4,3
+"1464 Lori Lyn Ln, Northbrook, IL 60062","3,380",https://www.zillow.com/homedetails/1464-Lori-Lyn-Ln-Northbrook-IL-60062/3332069_zpid/,"$610,000",180.47337278106508,Sold,5,3
+"312 Southgate Dr, Northbrook, IL 60062","1,230",https://www.zillow.com/homedetails/312-Southgate-Dr-Northbrook-IL-60062/3338116_zpid/,"$315,000",256.0975609756098,Sold,3,2
+"1765 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1765-Provenance-Way-Northbrook-IL-60062/255363104_zpid/,$1.44M,1440000.0,Sold,-,f
+"1030 Sussex Dr, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/1030-Sussex-Dr-Northbrook-IL-60062/3332835_zpid/,"$300,000",187.5,Sold,3,3
+"1761 Shawnee Trl, Northbrook, IL 60062","1,976",https://www.zillow.com/homedetails/1761-Shawnee-Trl-Northbrook-IL-60062/3340206_zpid/,"$341,000",172.57085020242914,Sold,4,3
+"3560 Bayberry Dr, Northbrook, IL 60062","2,145",https://www.zillow.com/homedetails/3560-Bayberry-Dr-Northbrook-IL-60062/3330389_zpid/,"$355,000",165.5011655011655,Sold,3,3
+"2845 Farmington Rd, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/2845-Farmington-Rd-Northbrook-IL-60062/3342627_zpid/,"$325,000",240.74074074074073,Sold,3,2
+"36 Chestnut Rd, Northbrook, IL 60062","2,728",https://www.zillow.com/homedetails/36-Chestnut-Rd-Northbrook-IL-60062/3329990_zpid/,"$370,000",135.63049853372434,Sold,4,4
+"1530 Woodlark Dr, Northbrook, IL 60062","5,000",https://www.zillow.com/homedetails/1530-Woodlark-Dr-Northbrook-IL-60062/3337716_zpid/,$1.19M,238.0,Sold,4,6
+"1115 Taylor St, Northbrook, IL 60062","3,037",https://www.zillow.com/homedetails/1115-Taylor-St-Northbrook-IL-60062/159463798_zpid/,"$628,500",206.94764570299637,Sold,3,3
+"2815 Beckwith Ct, Northbrook, IL 60062","3,020",https://www.zillow.com/homedetails/2815-Beckwith-Ct-Northbrook-IL-60062/3334045_zpid/,"$610,000",201.98675496688742,Sold,4,3
+"913 Bromley Pl #12a1, Northbrook, IL 60062",,https://www.zillow.com/homedetails/913-Bromley-Pl-12A1-Northbrook-IL-60062/65553939_zpid/,"$225,000",225000.0,Sold,2,2
+"913 Bromley Pl Unit 913, Northbrook, IL 60062",,https://www.zillow.com/homedetails/913-Bromley-Pl-UNIT-913-Northbrook-IL-60062/2079626241_zpid/,"$225,000",225000.0,Sold,2,2
+"3111 Toulon Dr #a1, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3111-Toulon-Dr-A1-Northbrook-IL-60062/3333799_zpid/,"$225,200",225200.0,Sold,2,2
+"1044 Butternut Ln, Northbrook, IL 60062","1,498",https://www.zillow.com/homedetails/1044-Butternut-Ln-Northbrook-IL-60062/3334560_zpid/,"$345,000",230.30707610146862,Sold,3,2
+"2044 Meadowview Ct, Northbrook, IL 60062","3,068",https://www.zillow.com/homedetails/2044-Meadowview-Ct-Northbrook-IL-60062/58356008_zpid/,"$800,000",260.7561929595828,Sold,4,2
+"3717 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3717-Provenance-Way-Northbrook-IL-60062/306331718_zpid/,"$489,500",489500.0,Sold,-,f
+"2044 Meadowview Ct, Northbrook, IL 60062","3,068",https://www.zillow.com/homedetails/2044-Meadowview-Ct-Northbrook-IL-60062/58355876_zpid/,"$800,000",260.7561929595828,Sold,3,4
+"4221 Yorkshire Ln, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/4221-Yorkshire-Ln-Northbrook-IL-60062/3331628_zpid/,"$732,500",228.90625,Sold,5,2
+"610 Ballantrae Dr Apt C, Northbrook, IL 60062","2,600",https://www.zillow.com/homedetails/610-Ballantrae-Dr-APT-C-Northbrook-IL-60062/2127676629_zpid/,"$310,000",119.23076923076923,Sold,3,3
+"2296 Farnsworth Ln, Northbrook, IL 60062","2,204",https://www.zillow.com/homedetails/2296-Farnsworth-Ln-Northbrook-IL-60062/3339542_zpid/,"$535,000",242.7404718693285,Sold,4,4
+"1280 Rudolph Rd, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1280-Rudolph-Rd-Northbrook-IL-60062/3329829_zpid/,"$140,000",127.27272727272727,Sold,1, 
+"3701 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3701-Provenance-Way-Northbrook-IL-60062/306331710_zpid/,"$582,000",582000.0,Sold,-,f
+"1140 Cayuga Dr, Northbrook, IL 60062","2,381",https://www.zillow.com/homedetails/1140-Cayuga-Dr-Northbrook-IL-60062/3333123_zpid/,"$575,000",241.49517009659806,Sold,4,3
+"2009 Milton Ave, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/2009-Milton-Ave-Northbrook-IL-60062/3336041_zpid/,"$360,000",327.27272727272725,Sold,3,2
+"1696 Central Ave, Northbrook, IL 60062","1,459",https://www.zillow.com/homedetails/1696-Central-Ave-Northbrook-IL-60062/3339998_zpid/,"$275,000",188.48526387936943,Sold,4,2
+"915 Bermuda Dunes Pl, Northbrook, IL 60062","3,829",https://www.zillow.com/homedetails/915-Bermuda-Dunes-Pl-Northbrook-IL-60062/3332601_zpid/,"$740,000",193.2619482893706,Sold,4,4
+"1762 Tudor Ln, Northbrook, IL 60062","2,800",https://www.zillow.com/homedetails/1762-Tudor-Ln-Northbrook-IL-60062/65553900_zpid/,"$515,000",183.92857142857142,Sold,3,4
+"1616 Birch Rd, Northbrook, IL 60062","2,472",https://www.zillow.com/homedetails/1616-Birch-Rd-Northbrook-IL-60062/3338756_zpid/,"$524,000",211.97411003236246,Sold,4,3
+"2826 Woodland Dr, Northbrook, IL 60062","3,688",https://www.zillow.com/homedetails/2826-Woodland-Dr-Northbrook-IL-60062/3340981_zpid/,"$610,000",165.40130151843817,Sold,5,3
+"101 Pointe Dr #1109, Northbrook, IL 60062","1,563",https://www.zillow.com/homedetails/101-Pointe-Dr-1109-Northbrook-IL-60062/70452519_zpid/,"$249,000",159.30902111324377,Sold,2,2
+"1343 Western Ave, Northbrook, IL 60062","1,409",https://www.zillow.com/homedetails/1343-Western-Ave-Northbrook-IL-60062/3335359_zpid/,"$380,000",269.694819020582,Sold,3,2
+"2014 Cambria Ct, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2014-Cambria-Ct-Northbrook-IL-60062/62005875_zpid/,"$270,000",225.0,Sold,2,2
+"2548 Virginia Ln, Northbrook, IL 60062","2,301",https://www.zillow.com/homedetails/2548-Virginia-Ln-Northbrook-IL-60062/3343808_zpid/,"$480,000",208.60495436766624,Sold,3,4
+"1921 Beechnut Rd, Northbrook, IL 60062","1,719",https://www.zillow.com/homedetails/1921-Beechnut-Rd-Northbrook-IL-60062/3329434_zpid/,"$340,000",197.7894124490983,Sold,0,a
+"1 The Court Of Harborside Penthouse 3, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1-The-Court-Of-Harborside-PENTHOUSE-3-Northbrook-IL-60062/2079062530_zpid/,"$297,000",297000.0,Sold,2,2
+"108 Poplar Ct, Northbrook, IL 60062","1,559",https://www.zillow.com/homedetails/108-Poplar-Ct-Northbrook-IL-60062/3279081_zpid/,"$430,000",275.8178319435536,Sold,3,2
+"1017 Longaker Rd, Northbrook, IL 60062","1,235",https://www.zillow.com/homedetails/1017-Longaker-Rd-Northbrook-IL-60062/3337338_zpid/,"$325,000",263.1578947368421,Sold,4,2
+"724 Greenwood Rd, Northbrook, IL 60062","6,512",https://www.zillow.com/homedetails/724-Greenwood-Rd-Northbrook-IL-60062/3330056_zpid/,$1.25M,191.95331695331694,Sold,7,7
+"3724 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3724-Provenance-Way-Northbrook-IL-60062/306331772_zpid/,"$484,900",484900.0,Sold,-,f
+"3738 Oak Ave, Northbrook, IL 60062","1,371",https://www.zillow.com/homedetails/3738-Oak-Ave-Northbrook-IL-60062/3332291_zpid/,"$290,000",211.5244347191831,Sold,0,a
+"3518 River Falls Dr, Northbrook, IL 60062","2,707",https://www.zillow.com/homedetails/3518-River-Falls-Dr-Northbrook-IL-60062/3333593_zpid/,"$520,000",192.0945696342815,Sold,4,3
+"990 Kensington Dr #0, Northbrook, IL 60062","1,250",https://www.zillow.com/homedetails/990-Kensington-Dr-0-Northbrook-IL-60062/2079375012_zpid/,"$247,000",197.6,Sold,2,2
+"1433 Church St, Northbrook, IL 60062","4,000",https://www.zillow.com/homedetails/1433-Church-St-Northbrook-IL-60062/3336928_zpid/,$1.01M,252.5,Sold,5,5
+"2045 Lavigne Ln, Northbrook, IL 60062","4,200",https://www.zillow.com/homedetails/2045-Lavigne-Ln-Northbrook-IL-60062/3340564_zpid/,"$775,000",184.52380952380952,Sold,5,6
+"3050 Pheasant Creek Dr Apt 109, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/3050-Pheasant-Creek-Dr-APT-109-Northbrook-IL-60062/2088665216_zpid/,"$260,000",152.94117647058823,Sold,3,2
+"1280 Rudolph Rd Apt 2a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1280-Rudolph-Rd-APT-2A-Northbrook-IL-60062/3329785_zpid/,"$280,500",280500.0,Sold,2,2
+"322 Powder Horn Dr, Northbrook, IL 60062","2,669",https://www.zillow.com/homedetails/322-Powder-Horn-Dr-Northbrook-IL-60062/3329875_zpid/,"$545,000",204.1963282128138,Sold,5,4
+"1971 Glendale Ave, Northbrook, IL 60062","4,030",https://www.zillow.com/homedetails/1971-Glendale-Ave-Northbrook-IL-60062/3339439_zpid/,$1.16M,287.8411910669975,Sold,4,5
+"1130 Meadow Rd, Northbrook, IL 60062","2,362",https://www.zillow.com/homedetails/1130-Meadow-Rd-Northbrook-IL-60062/3334432_zpid/,"$417,500",176.75698560541915,Sold,4,4
+"1913 Thornwood Ln, Northbrook, IL 60062","1,250",https://www.zillow.com/homedetails/1913-Thornwood-Ln-Northbrook-IL-60062/3335978_zpid/,"$358,000",286.4,Sold,3,2
+"2140 Clover Rd, Northbrook, IL 60062","3,092",https://www.zillow.com/homedetails/2140-Clover-Rd-Northbrook-IL-60062/3340939_zpid/,"$545,000",176.26131953428202,Sold,5,4
+"1250 Rudolph Dr #2a, Northbrook, IL 60062","1,810",https://www.zillow.com/homedetails/1250-Rudolph-Dr-2A-Northbrook-IL-60062/3329714_zpid/,"$345,000",190.60773480662982,Sold,2,2
+"2136 Farnsworth Ln, Northbrook, IL 60062","1,590",https://www.zillow.com/homedetails/2136-Farnsworth-Ln-Northbrook-IL-60062/3339554_zpid/,"$555,750",349.52830188679246,Sold,3,2
+"621 Michelline Ln, Northbrook, IL 60062","3,018",https://www.zillow.com/homedetails/621-Michelline-Ln-Northbrook-IL-60062/3331055_zpid/,"$590,000",195.4937044400265,Sold,4,3
+"2204 Washington Dr, Northbrook, IL 60062","2,920",https://www.zillow.com/homedetails/2204-Washington-Dr-Northbrook-IL-60062/159463800_zpid/,"$460,000",157.53424657534248,Sold,4,3
+"2727 Koepke Rd, Northbrook, IL 60062","2,764",https://www.zillow.com/homedetails/2727-Koepke-Rd-Northbrook-IL-60062/3338926_zpid/,"$585,000",211.64978292329957,Sold,4,4
+"1250 Rudolph Dr #3k, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/1250-Rudolph-Dr-3K-Northbrook-IL-60062/3329737_zpid/,"$252,500",157.8125,Sold,2,2
+"1609 Dunhill Ct, Northbrook, IL 60062","4,236",https://www.zillow.com/homedetails/1609-Dunhill-Ct-Northbrook-IL-60062/3338695_zpid/,"$950,000",224.2681775259679,Sold,5,6
+"809 Cedar Ln, Northbrook, IL 60062","1,098",https://www.zillow.com/homedetails/809-Cedar-Ln-Northbrook-IL-60062/3334762_zpid/,"$367,000",334.24408014571947,Sold,3,2
+"728 Picardy Cir, Northbrook, IL 60062","1,388",https://www.zillow.com/homedetails/728-Picardy-Cir-Northbrook-IL-60062/3331101_zpid/,"$318,000",229.10662824207492,Sold,2,3
+"1 Timber Ln, Northbrook, IL 60062","2,360",https://www.zillow.com/homedetails/1-Timber-Ln-Northbrook-IL-60062/3336235_zpid/,"$482,500",204.44915254237287,Sold,3,3
+"2628 Maple Ave, Northbrook, IL 60062","4,746",https://www.zillow.com/homedetails/2628-Maple-Ave-Northbrook-IL-60062/3335196_zpid/,$1.22M,257.0585756426464,Sold,5,6
+"2036 Farnsworth Ln, Northbrook, IL 60062","4,366",https://www.zillow.com/homedetails/2036-Farnsworth-Ln-Northbrook-IL-60062/3339561_zpid/,$1.35M,309.2075125973431,Sold,5,5
+"1133 White Mountain Dr, Northbrook, IL 60062","2,026",https://www.zillow.com/homedetails/1133-White-Mountain-Dr-Northbrook-IL-60062/3333195_zpid/,"$465,000",229.5162882527147,Sold,4,2
+"1853 Holly Ave, Northbrook, IL 60062","2,700",https://www.zillow.com/homedetails/1853-Holly-Ave-Northbrook-IL-60062/3340074_zpid/,"$615,000",227.77777777777777,Sold,5,4
+"2100 Valencia Dr Apt 404b, Northbrook, IL 60062","1,000",https://www.zillow.com/homedetails/2100-Valencia-Dr-APT-404B-Northbrook-IL-60062/3343920_zpid/,"$105,000",105.0,Sold,1, 
+"1940 Brentwood Rd, Northbrook, IL 60062","2,380",https://www.zillow.com/homedetails/1940-Brentwood-Rd-Northbrook-IL-60062/65553877_zpid/,"$420,000",176.47058823529412,Sold,3,3
+"1739 Seton Rd, Northbrook, IL 60062","1,864",https://www.zillow.com/homedetails/1739-Seton-Rd-Northbrook-IL-60062/3329359_zpid/,"$300,000",160.94420600858368,Sold,2,3
+"2301 Wood Dr, Northbrook, IL 60062","5,631",https://www.zillow.com/homedetails/2301-Wood-Dr-Northbrook-IL-60062/3339676_zpid/,$1.51M,268.15840880838215,Sold,5,7
+"2536 Illinois Rd, Northbrook, IL 60062","3,090",https://www.zillow.com/homedetails/2536-Illinois-Rd-Northbrook-IL-60062/3334934_zpid/,"$875,000",283.1715210355987,Sold,5,4
+"1612 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1612-Provenance-Way-Northbrook-IL-60062/258466443_zpid/,"$837,216",837216.0,Sold,-,f
+"1413 Coral Pkwy, Northbrook, IL 60062","5,173",https://www.zillow.com/homedetails/1413-Coral-Pkwy-Northbrook-IL-60062/3333722_zpid/,$1.05M,202.97699594046009,Sold,5,6
+"3525 Whirlaway Dr, Northbrook, IL 60062","2,539",https://www.zillow.com/homedetails/3525-Whirlaway-Dr-Northbrook-IL-60062/3340696_zpid/,"$625,000",246.1599054745963,Sold,4,3
+"2129 Illinois Rd, Northbrook, IL 60062","1,560",https://www.zillow.com/homedetails/2129-Illinois-Rd-Northbrook-IL-60062/3335690_zpid/,"$355,000",227.56410256410257,Sold,3,2
+"1116 Crestwood Dr, Northbrook, IL 60062","2,706",https://www.zillow.com/homedetails/1116-Crestwood-Dr-Northbrook-IL-60062/3334368_zpid/,"$678,000",250.55432372505544,Sold,4,3
+"1408 Shermer Rd, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/1408-Shermer-Rd-Northbrook-IL-60062/87709712_zpid/,"$217,500",155.35714285714286,Sold,2,2
+"42 Bridlewood Ln, Northbrook, IL 60062","4,870",https://www.zillow.com/homedetails/42-Bridlewood-Ln-Northbrook-IL-60062/3337689_zpid/,$1.20M,246.4065708418891,Sold,4,6
+"879 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/879-Winchester-Ln-Northbrook-IL-60062/3333310_zpid/,"$392,500",153.0214424951267,Sold,4,3
+"1075 Cedar Ln, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/1075-Cedar-Ln-Northbrook-IL-60062/3334469_zpid/,"$358,000",298.3333333333333,Sold,4,2
+"2150 Valencia Dr Apt 215a, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/2150-Valencia-Dr-APT-215A-Northbrook-IL-60062/3343842_zpid/,"$150,000",100.0,Sold,3,2
+"1780 Sunset Ridge Rd, Northbrook, IL 60062","5,095",https://www.zillow.com/homedetails/1780-Sunset-Ridge-Rd-Northbrook-IL-60062/3338546_zpid/,"$775,000",152.1099116781158,Sold,5,5
+"2 The Court Of Island Point, Northbrook, IL 60062","2,468",https://www.zillow.com/homedetails/2-The-Court-Of-Island-Point-Northbrook-IL-60062/3333498_zpid/,"$468,000",189.62722852512155,Sold,4,4
+"1135 Antique Ln, Northbrook, IL 60062","2,595",https://www.zillow.com/homedetails/1135-Antique-Ln-Northbrook-IL-60062/3329167_zpid/,"$600,000",231.21387283236993,Sold,4,3
+"245 Fox Run Dr, Northbrook, IL 60062","2,639",https://www.zillow.com/homedetails/245-Fox-Run-Dr-Northbrook-IL-60062/3329902_zpid/,"$595,000",225.46419098143235,Sold,4,3
+"2395 Techny Rd, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/2395-Techny-Rd-Northbrook-IL-60062/3339748_zpid/,"$405,000",253.125,Sold,3,2
+"1780 Prairie Ave, Northbrook, IL 60062","5,050",https://www.zillow.com/homedetails/1780-Prairie-Ave-Northbrook-IL-60062/3340118_zpid/,"$965,000",191.0891089108911,Sold,5,5
+"4345 Phyllis Dr, Northbrook, IL 60062","2,899",https://www.zillow.com/homedetails/4345-Phyllis-Dr-Northbrook-IL-60062/3330857_zpid/,"$625,000",215.5915833045878,Sold,5,4
+"2367 Scott Rd, Northbrook, IL 60062","6,320",https://www.zillow.com/homedetails/2367-Scott-Rd-Northbrook-IL-60062/3339342_zpid/,$1.40M,221.51898734177215,Sold,6,6
+"1921 Somerset Ln, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/1921-Somerset-Ln-Northbrook-IL-60062/3339214_zpid/,"$385,000",213.88888888888889,Sold,2,3
+"241 Chipili Dr, Northbrook, IL 60062","1,519",https://www.zillow.com/homedetails/241-Chipili-Dr-Northbrook-IL-60062/3338091_zpid/,"$325,000",213.95655036208032,Sold,3,2
+"2809 Crabtree Ln, Northbrook, IL 60062","1,905",https://www.zillow.com/homedetails/2809-Crabtree-Ln-Northbrook-IL-60062/3333281_zpid/,"$500,000",262.4671916010499,Sold,3,3
+"2310 Illinois Rd, Northbrook, IL 60062","3,800",https://www.zillow.com/homedetails/2310-Illinois-Rd-Northbrook-IL-60062/3335591_zpid/,"$670,000",176.31578947368422,Sold,4,4
+"1648 Longvalley Dr, Northbrook, IL 60062","4,017",https://www.zillow.com/homedetails/1648-Longvalley-Dr-Northbrook-IL-60062/3340232_zpid/,"$800,000",199.15359721184964,Sold,5,4
+"1607 Maple Ave, Northbrook, IL 60062","5,281",https://www.zillow.com/homedetails/1607-Maple-Ave-Northbrook-IL-60062/3336982_zpid/,$1.21M,229.12327210755538,Sold,5,5
+"2005 Valencia Dr Apt 202d, Northbrook, IL 60062","1,240",https://www.zillow.com/homedetails/2005-Valencia-Dr-APT-202D-Northbrook-IL-60062/3343998_zpid/,"$185,000",149.19354838709677,Sold,2,2
+"3801 Mission Hills Rd #e-309, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-E-309-Northbrook-IL-60062/3341142_zpid/,"$225,000",160.71428571428572,Sold,2,2
+"1704 Maple Ave, Northbrook, IL 60062","1,336",https://www.zillow.com/homedetails/1704-Maple-Ave-Northbrook-IL-60062/3336821_zpid/,"$179,500",134.3562874251497,Sold,3,2
+"2162 Washington Dr #2162, Northbrook, IL 60062","3,018",https://www.zillow.com/homedetails/2162-Washington-Dr-2162-Northbrook-IL-60062/2080945007_zpid/,"$632,500",209.57587806494368,Sold,3,3
+"3874 Greenacre Dr, Northbrook, IL 60062","1,186",https://www.zillow.com/homedetails/3874-Greenacre-Dr-Northbrook-IL-60062/3331734_zpid/,"$510,000",430.0168634064081,Sold,2,1
+"807 Timbers Edge, Northbrook, IL 60062",,https://www.zillow.com/homedetails/807-Timbers-Edge-Northbrook-IL-60062/245566646_zpid/,"$970,000",970000.0,Sold,-,f
+"2938 Cherry Ln, Northbrook, IL 60062","2,134",https://www.zillow.com/homedetails/2938-Cherry-Ln-Northbrook-IL-60062/3334010_zpid/,"$550,000",257.7319587628866,Sold,3,2
+"3 The Court Of Cobblestone, Northbrook, IL 60062","2,420",https://www.zillow.com/homedetails/3-The-Court-Of-Cobblestone-Northbrook-IL-60062/3333348_zpid/,"$380,000",157.02479338842974,Sold,2,3
+"4021 Michelline Ln, Northbrook, IL 60062","3,481",https://www.zillow.com/homedetails/4021-Michelline-Ln-Northbrook-IL-60062/3331047_zpid/,"$570,000",163.74604998563632,Sold,5,4
+"1930 Thornwood Ln, Northbrook, IL 60062","1,426",https://www.zillow.com/homedetails/1930-Thornwood-Ln-Northbrook-IL-60062/3335933_zpid/,"$265,000",185.8345021037868,Sold,3,1
+"4022 Rutgers Ln, Northbrook, IL 60062","2,803",https://www.zillow.com/homedetails/4022-Rutgers-Ln-Northbrook-IL-60062/3331581_zpid/,"$550,000",196.21833749554048,Sold,5,5
+"2507 Oak Ave, Northbrook, IL 60062","4,221",https://www.zillow.com/homedetails/2507-Oak-Ave-Northbrook-IL-60062/3334930_zpid/,"$325,000",76.99597251836057,Sold,5,5
+"3470 Lawrence Ln, Northbrook, IL 60062","1,661",https://www.zillow.com/homedetails/3470-Lawrence-Ln-Northbrook-IL-60062/3349816_zpid/,"$370,000",222.75737507525588,Sold,4,3
+"3475 Bayberry Dr, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/3475-Bayberry-Dr-Northbrook-IL-60062/3330433_zpid/,"$347,000",216.875,Sold,3,2
+"891 Bromley Pl, Northbrook, IL 60062",,https://www.zillow.com/homedetails/891-Bromley-Pl-Northbrook-IL-60062/63689532_zpid/,"$269,000",269000.0,Sold,-,s
+"63 Wellington Rd, Northbrook, IL 60062","2,418",https://www.zillow.com/homedetails/63-Wellington-Rd-Northbrook-IL-60062/3329318_zpid/,"$340,000",140.61207609594706,Sold,4,4
+"4555 Concord Ln #k, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/4555-Concord-Ln-K-Northbrook-IL-60062/2080327524_zpid/,"$365,000",202.77777777777777,Sold,3,3
+"2150 Valencia Dr Apt 300a, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2150-Valencia-Dr-APT-300A-Northbrook-IL-60062/3343844_zpid/,"$170,000",141.66666666666666,Sold,2,2
+"2041 Techny Rd, Northbrook, IL 60062","1,374",https://www.zillow.com/homedetails/2041-Techny-Rd-Northbrook-IL-60062/3339786_zpid/,"$375,000",272.92576419213975,Sold,3,2
+"4030 Yorkshire Ln, Northbrook, IL 60062","2,737",https://www.zillow.com/homedetails/4030-Yorkshire-Ln-Northbrook-IL-60062/3331544_zpid/,"$577,500",210.99744245524298,Sold,4,4
+"829 Gleneagle Ln, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/829-Gleneagle-Ln-Northbrook-IL-60062/58355956_zpid/,"$926,500",289.53125,Sold,4,4
+"60 Wellesley Cir, Northbrook, IL 60062","2,981",https://www.zillow.com/homedetails/60-Wellesley-Cir-Northbrook-IL-60062/50920647_zpid/,"$486,000",163.03253941630325,Sold,3,4
+"1905 Somerset Ln, Northbrook, IL 60062","1,870",https://www.zillow.com/homedetails/1905-Somerset-Ln-Northbrook-IL-60062/3339218_zpid/,"$416,000",222.45989304812835,Sold,2,3
+"1052 Briarwood Ln, Northbrook, IL 60062","2,184",https://www.zillow.com/homedetails/1052-Briarwood-Ln-Northbrook-IL-60062/3334536_zpid/,"$524,000",239.9267399267399,Sold,4,3
+"3129 Violet Ln, Northbrook, IL 60062","2,340",https://www.zillow.com/homedetails/3129-Violet-Ln-Northbrook-IL-60062/3340513_zpid/,"$615,000",262.8205128205128,Sold,4,3
+"38 The Court Of Greenway, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/38-The-Court-Of-Greenway-Northbrook-IL-60062/3332556_zpid/,"$340,000",242.85714285714286,Sold,3,2
+"2818 Woodmere Dr, Northbrook, IL 60062","3,904",https://www.zillow.com/homedetails/2818-Woodmere-Dr-Northbrook-IL-60062/3341071_zpid/,"$775,000",198.51434426229508,Sold,5,5
+"4 The Court Of Island Point, Northbrook, IL 60062","2,200",https://www.zillow.com/homedetails/4-The-Court-Of-Island-Point-Northbrook-IL-60062/3333496_zpid/,"$460,000",209.0909090909091,Sold,3,3
+"3810 Mission Hills Rd Apt 108, Northbrook, IL 60062","2,350",https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-APT-108-Northbrook-IL-60062/3341706_zpid/,"$210,000",89.36170212765957,Sold,2,3
+"1728 Longvalley Dr, Northbrook, IL 60062","2,158",https://www.zillow.com/homedetails/1728-Longvalley-Dr-Northbrook-IL-60062/3339933_zpid/,"$462,500",214.31881371640407,Sold,4,3
+"1280 Rudolph Rd Apt 3n, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1280-Rudolph-Rd-APT-3N-Northbrook-IL-60062/2080847370_zpid/,"$140,000",140000.0,Sold,1, 
+"3221 W Parkway Dr Apt 21c, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3221-W-Parkway-Dr-APT-21C-Northbrook-IL-60062/70452996_zpid/,"$135,000",135000.0,Sold,-,s
+"525 Banyan Dr, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/525-Banyan-Dr-Northbrook-IL-60062/3330358_zpid/,"$318,000",187.05882352941177,Sold,3,2
+"3711 Radcliffe Dr, Northbrook, IL 60062","2,085",https://www.zillow.com/homedetails/3711-Radcliffe-Dr-Northbrook-IL-60062/3332144_zpid/,"$445,000",213.42925659472422,Sold,3,2
+"1535 Woodlark Dr, Northbrook, IL 60062","5,718",https://www.zillow.com/homedetails/1535-Woodlark-Dr-Northbrook-IL-60062/3337724_zpid/,$1.24M,216.85904162294509,Sold,6,5
+"1375 Rosemary Ln, Northbrook, IL 60062","4,672",https://www.zillow.com/homedetails/1375-Rosemary-Ln-Northbrook-IL-60062/3329966_zpid/,"$580,000",124.14383561643835,Sold,4,7
+"736 York Ct #736, Northbrook, IL 60062","1,991",https://www.zillow.com/homedetails/736-York-Ct-736-Northbrook-IL-60062/2083718994_zpid/,"$343,000",172.2752385735811,Sold,3,3
+"2928 Stonegate Ln, Northbrook, IL 60062","2,745",https://www.zillow.com/homedetails/2928-Stonegate-Ln-Northbrook-IL-60062/3333987_zpid/,"$430,000",156.64845173041894,Sold,4,3
+"3851 Sanders, Northbrook, IL 60062",950,https://www.zillow.com/homedetails/3851-Sanders-Northbrook-IL-60062/70446873_zpid/,"$190,000",200.0,Sold,2,1
+"3579 Techny Rd, Northbrook, IL 60062","2,700",https://www.zillow.com/homedetails/3579-Techny-Rd-Northbrook-IL-60062/3340677_zpid/,"$400,000",148.14814814814815,Sold,5,4
+"2435 Vicki Ln, Northbrook, IL 60062","3,285",https://www.zillow.com/homedetails/2435-Vicki-Ln-Northbrook-IL-60062/3342718_zpid/,"$769,000",234.09436834094367,Sold,4,5
+"1006 Spring Hill Dr, Northbrook, IL 60062","1,750",https://www.zillow.com/homedetails/1006-Spring-Hill-Dr-Northbrook-IL-60062/3332793_zpid/,"$270,000",154.28571428571428,Sold,3,3
+"2140 Oak Ave, Northbrook, IL 60062","2,644",https://www.zillow.com/homedetails/2140-Oak-Ave-Northbrook-IL-60062/3335517_zpid/,"$623,000",235.62783661119516,Sold,4,4
+"2446 Walters Ave, Northbrook, IL 60062","2,060",https://www.zillow.com/homedetails/2446-Walters-Ave-Northbrook-IL-60062/3335018_zpid/,"$375,000",182.03883495145632,Sold,4,2
+"1739 Tudor Ln Unit 209, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/1739-Tudor-Ln-UNIT-209-Northbrook-IL-60062/70452646_zpid/,"$325,000",216.66666666666666,Sold,2,2
+"4547 Lindenwood Ln, Northbrook, IL 60062","2,491",https://www.zillow.com/homedetails/4547-Lindenwood-Ln-Northbrook-IL-60062/3279153_zpid/,"$352,000",141.30871136089922,Sold,2,2
+"1220 Woodview Ln, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Woodview-Ln-Northbrook-IL-60062/253420683_zpid/,$1.50M,1500000.0,Sold,-,f
+"2846 Woodland Dr, Northbrook, IL 60062","3,517",https://www.zillow.com/homedetails/2846-Woodland-Dr-Northbrook-IL-60062/3340984_zpid/,"$680,486",193.48478817173728,Sold,5,5
+"827 Turnberry Ln, Northbrook, IL 60062","3,043",https://www.zillow.com/homedetails/827-Turnberry-Ln-Northbrook-IL-60062/58355938_zpid/,"$997,000",327.6372001314492,Sold,5,4
+"1831 Mission Hills Rd Apt 507, Northbrook, IL 60062","2,300",https://www.zillow.com/homedetails/1831-Mission-Hills-Rd-APT-507-Northbrook-IL-60062/3341566_zpid/,"$515,000",223.91304347826087,Sold,2,3
+"807 Timbers Edge Ln, Northbrook, IL 60062","3,050",https://www.zillow.com/homedetails/807-Timbers-Edge-Ln-Northbrook-IL-60062/2091626621_zpid/,"$969,977",318.0252459016393,Sold,3,3
+"417 Pebblebrook Rd, Northbrook, IL 60062","3,342",https://www.zillow.com/homedetails/417-Pebblebrook-Rd-Northbrook-IL-60062/3338593_zpid/,"$847,000",253.44105326152004,Sold,5,4
+"2200 Crabtree Ln, Northbrook, IL 60062","3,410",https://www.zillow.com/homedetails/2200-Crabtree-Ln-Northbrook-IL-60062/3334657_zpid/,"$950,000",278.5923753665689,Sold,6,4
+"3349 Lakeside Ave, Northbrook, IL 60062","4,487",https://www.zillow.com/homedetails/3349-Lakeside-Ave-Northbrook-IL-60062/3339901_zpid/,"$790,000",176.06418542455984,Sold,6,6
+"2014 Cambria Ct #2014, Northbrook, IL 60062","1,225",https://www.zillow.com/homedetails/2014-Cambria-Ct-2014-Northbrook-IL-60062/2080514560_zpid/,"$270,000",220.40816326530611,Sold,2,2
+"1757 Seton Rd, Northbrook, IL 60062","2,610",https://www.zillow.com/homedetails/1757-Seton-Rd-Northbrook-IL-60062/3329362_zpid/,"$335,000",128.35249042145594,Sold,3,3
+"3717 Provenance Way, Northbrook, IL 60062","2,099",https://www.zillow.com/homedetails/3717-Provenance-Way-Northbrook-IL-60062/2081603474_zpid/,"$489,110",233.02048594568842,Sold,3,3
+"904 Enfield Dr, Northbrook, IL 60062",,https://www.zillow.com/homedetails/904-Enfield-Dr-Northbrook-IL-60062/2080770094_zpid/,"$357,500",357500.0,Sold,3,3
+"455 Alice Dr, Northbrook, IL 60062","4,999",https://www.zillow.com/homedetails/455-Alice-Dr-Northbrook-IL-60062/3330529_zpid/,"$965,000",193.0386077215443,Sold,5,5
+"1112 Walnut Ln, Northbrook, IL 60062","3,025",https://www.zillow.com/homedetails/1112-Walnut-Ln-Northbrook-IL-60062/3334671_zpid/,"$730,000",241.32231404958677,Sold,4,3
+"2270 Washington Dr, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2270-Washington-Dr-Northbrook-IL-60062/306331602_zpid/,"$500,000",500000.0,Sold,S,o
+"1736 Lancaster Way, Northbrook, IL 60062","2,203",https://www.zillow.com/homedetails/1736-Lancaster-Way-Northbrook-IL-60062/65553863_zpid/,"$450,000",204.26690876078075,Sold,3,3
+"25 Bridlewood Rd, Northbrook, IL 60062","4,662",https://www.zillow.com/homedetails/25-Bridlewood-Rd-Northbrook-IL-60062/3337677_zpid/,"$925,000",198.4126984126984,Sold,6,7
+"1260 Woodview Ln, Northbrook, IL 60062","4,082",https://www.zillow.com/homedetails/1260-Woodview-Ln-Northbrook-IL-60062/253422523_zpid/,$1.17M,286.62420382165607,Sold,3,4
+"2106 Cargill Dr, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/2106-Cargill-Dr-Northbrook-IL-60062/3339718_zpid/,"$290,000",120.83333333333333,Sold,4,3
+"2381 El Cid Ln, Northbrook, IL 60062","2,678",https://www.zillow.com/homedetails/2381-El-Cid-Ln-Northbrook-IL-60062/3343711_zpid/,"$420,000",156.8334578043316,Sold,2,2
+"2860 Beckwith Ct, Northbrook, IL 60062","3,787",https://www.zillow.com/homedetails/2860-Beckwith-Ct-Northbrook-IL-60062/3334037_zpid/,"$705,000",186.16318986004754,Sold,5,3
+"2015 Walters Ave, Northbrook, IL 60062","1,900",https://www.zillow.com/homedetails/2015-Walters-Ave-Northbrook-IL-60062/87713425_zpid/,"$212,000",111.57894736842105,Sold,2,2
+"44 The Court Of Greenway, Northbrook, IL 60062","1,265",https://www.zillow.com/homedetails/44-The-Court-Of-Greenway-Northbrook-IL-60062/3332561_zpid/,"$215,000",169.9604743083004,Sold,2,2
+"2209 Chestnut St, Northbrook, IL 60062","1,815",https://www.zillow.com/homedetails/2209-Chestnut-St-Northbrook-IL-60062/3335301_zpid/,"$362,500",199.72451790633608,Sold,4,3
+"2516 Burgundy Ln, Northbrook, IL 60062","1,977",https://www.zillow.com/homedetails/2516-Burgundy-Ln-Northbrook-IL-60062/3343563_zpid/,"$292,000",147.69853313100657,Sold,2,2
+"805 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/805-Winchester-Ln-Northbrook-IL-60062/3333325_zpid/,"$435,000",169.5906432748538,Sold,4,4
+"4345 Phyllis Dr, Northbrook, IL 60062","2,899",https://www.zillow.com/homedetails/4345-Phyllis-Dr-Northbrook-IL-60062/2080803043_zpid/,"$625,000",215.5915833045878,Sold,5,4
+"1029 Longaker Rd, Northbrook, IL 60062","1,068",https://www.zillow.com/homedetails/1029-Longaker-Rd-Northbrook-IL-60062/3337342_zpid/,"$335,000",313.67041198501875,Sold,3,2
+"3741 Mission Hills Rd Apt 103, Northbrook, IL 60062","2,350",https://www.zillow.com/homedetails/3741-Mission-Hills-Rd-APT-103-Northbrook-IL-60062/3341574_zpid/,"$290,000",123.40425531914893,Sold,2,3
+"4507 Deer Trail Ct, Northbrook, IL 60062","2,228",https://www.zillow.com/homedetails/4507-Deer-Trail-Ct-Northbrook-IL-60062/3279244_zpid/,"$390,000",175.04488330341113,Sold,3,4
+"2050 Valencia Dr Apt 210c, Northbrook, IL 60062","1,000",https://www.zillow.com/homedetails/2050-Valencia-Dr-APT-210C-Northbrook-IL-60062/3343950_zpid/,"$110,000",110.0,Sold,1, 
+"820 Meadow Rd, Northbrook, IL 60062","2,034",https://www.zillow.com/homedetails/820-Meadow-Rd-Northbrook-IL-60062/3334437_zpid/,"$458,000",225.17207472959686,Sold,3,3
+"1855 Ellendale Dr, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/1855-Ellendale-Dr-Northbrook-IL-60062/3338899_zpid/,"$540,000",180.0,Sold,4,3
+"3950 Dundee Rd Apt 103, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3950-Dundee-Rd-APT-103-Northbrook-IL-60062/2083215885_zpid/,"$140,000",140000.0,Sold,2,2
+"1938 Lincoln Ave, Northbrook, IL 60062","1,594",https://www.zillow.com/homedetails/1938-Lincoln-Ave-Northbrook-IL-60062/3336076_zpid/,"$430,000",269.7616060225847,Sold,3,2
+"1632 Oakwood Rd, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/1632-Oakwood-Rd-Northbrook-IL-60062/3329586_zpid/,"$395,000",329.1666666666667,Sold,4,2
+"350 Versailles Dr, Northbrook, IL 60062","2,628",https://www.zillow.com/homedetails/350-Versailles-Dr-Northbrook-IL-60062/3331259_zpid/,"$550,000",209.28462709284628,Sold,4,2
+"1013 Longaker Rd, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1013-Longaker-Rd-Northbrook-IL-60062/3337325_zpid/,"$325,000",295.45454545454544,Sold,4,2
+"711 Lee Rd, Northbrook, IL 60062","3,423",https://www.zillow.com/homedetails/711-Lee-Rd-Northbrook-IL-60062/3329245_zpid/,"$325,000",94.94595384165936,Sold,2,4
+"2116 Royal, Northbrook, IL 60062","2,600",https://www.zillow.com/homedetails/2116-Royal-Northbrook-IL-60062/2079787817_zpid/,"$545,000",209.6153846153846,Sold,3,3
+"2543 Steven Ln, Northbrook, IL 60062","3,264",https://www.zillow.com/homedetails/2543-Steven-Ln-Northbrook-IL-60062/49913447_zpid/,"$635,000",194.54656862745097,Sold,4,3
+"235 Coachmaker Dr, Northbrook, IL 60062","2,504",https://www.zillow.com/homedetails/235-Coachmaker-Dr-Northbrook-IL-60062/3329221_zpid/,"$510,000",203.6741214057508,Sold,4,3
+"1944 Central Ave, Northbrook, IL 60062","2,040",https://www.zillow.com/homedetails/1944-Central-Ave-Northbrook-IL-60062/3339863_zpid/,"$385,000",188.72549019607843,Sold,4,2
+"3765 Gregory Dr, Northbrook, IL 60062","1,000",https://www.zillow.com/homedetails/3765-Gregory-Dr-Northbrook-IL-60062/3349863_zpid/,"$384,000",384.0,Sold,S,o
+"2400 Maple Ave, Northbrook, IL 60062","1,868",https://www.zillow.com/homedetails/2400-Maple-Ave-Northbrook-IL-60062/3335038_zpid/,"$550,000",294.4325481798715,Sold,5,3
+"3810 S Mission Hills Rd #204, Northbrook, IL 60062","1,820",https://www.zillow.com/homedetails/3810-S-Mission-Hills-Rd-204-Northbrook-IL-60062/2079984629_zpid/,"$247,500",135.98901098901098,Sold,2,2
+"3816 Medford Cir, Northbrook, IL 60062","3,407",https://www.zillow.com/homedetails/3816-Medford-Cir-Northbrook-IL-60062/3331893_zpid/,"$600,000",176.10801291458762,Sold,5,4
+"75 Wellesley Cir, Northbrook, IL 60062","3,241",https://www.zillow.com/homedetails/75-Wellesley-Cir-Northbrook-IL-60062/54529888_zpid/,"$487,000",150.26226473310706,Sold,3,3
+"409 Barnsley Pl, Northbrook, IL 60062","2,009",https://www.zillow.com/homedetails/409-Barnsley-Pl-Northbrook-IL-60062/3337595_zpid/,"$439,000",218.516674962668,Sold,4,3
+"4052 Michelline Ln, Northbrook, IL 60062","2,625",https://www.zillow.com/homedetails/4052-Michelline-Ln-Northbrook-IL-60062/3331014_zpid/,"$625,000",238.0952380952381,Sold,4,3
+"1622 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1622-Provenance-Way-Northbrook-IL-60062/306331812_zpid/,"$868,500",868500.0,Sold,-,f
+"2050 Valencia Dr Apt 407c, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2050-Valencia-Dr-APT-407C-Northbrook-IL-60062/3343979_zpid/,"$179,180",149.31666666666666,Sold,2,2
+"307 Powder Horn Dr, Northbrook, IL 60062","2,692",https://www.zillow.com/homedetails/307-Powder-Horn-Dr-Northbrook-IL-60062/3329880_zpid/,"$575,000",213.5958395245171,Sold,4,3
+"1955 Farnsworth Ln, Northbrook, IL 60062","2,263",https://www.zillow.com/homedetails/1955-Farnsworth-Ln-Northbrook-IL-60062/65553867_zpid/,"$435,000",192.2227132125497,Sold,3,3
+"891 Bromley Pl #891, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/891-Bromley-Pl-891-Northbrook-IL-60062/2081069041_zpid/,"$269,000",224.16666666666666,Sold,2,2
+"2740 Oak Ave, Northbrook, IL 60062","3,310",https://www.zillow.com/homedetails/2740-Oak-Ave-Northbrook-IL-60062/3335184_zpid/,"$687,500",207.70392749244712,Sold,4,3
+"3719 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3719-Provenance-Way-Northbrook-IL-60062/306331717_zpid/,"$533,500",533500.0,Sold,-,f
+"3728 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3728-Provenance-Way-Northbrook-IL-60062/306331771_zpid/,"$489,000",489000.0,Sold,-,f
+"2161 Techny Rd, Northbrook, IL 60062","2,640",https://www.zillow.com/homedetails/2161-Techny-Rd-Northbrook-IL-60062/3339756_zpid/,"$569,000",215.53030303030303,Sold,4,3
+"2127 Farnsworth Ln, Northbrook, IL 60062","1,920",https://www.zillow.com/homedetails/2127-Farnsworth-Ln-Northbrook-IL-60062/3339269_zpid/,"$407,500",212.23958333333334,Sold,3,2
+"3722 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3722-Provenance-Way-Northbrook-IL-60062/306331773_zpid/,"$580,500",580500.0,Sold,-,f
+"3585 Pleasant St, Northbrook, IL 60062","1,716",https://www.zillow.com/homedetails/3585-Pleasant-St-Northbrook-IL-60062/3339959_zpid/,"$225,000",131.11888111888112,Sold,4,2
+"609 Picardy Cir, Northbrook, IL 60062",,https://www.zillow.com/homedetails/609-Picardy-Cir-Northbrook-IL-60062/101328142_zpid/,"$350,000",350000.0,Sold,-,s
+"1325 Wessling Dr, Northbrook, IL 60062","3,070",https://www.zillow.com/homedetails/1325-Wessling-Dr-Northbrook-IL-60062/3332153_zpid/,"$537,000",174.9185667752443,Sold,4,3
+"609 Picardy Cir, Northbrook, IL 60062","1,388",https://www.zillow.com/homedetails/609-Picardy-Cir-Northbrook-IL-60062/3331167_zpid/,"$350,000",252.1613832853026,Sold,2,3
+"3110 Pheasant Creek Dr Apt 301, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-APT-301-Northbrook-IL-60062/2085244662_zpid/,"$163,000",135.83333333333334,Sold,2,2
+"1941 Koehling Rd, Northbrook, IL 60062","1,918",https://www.zillow.com/homedetails/1941-Koehling-Rd-Northbrook-IL-60062/3329923_zpid/,"$325,000",169.4473409801877,Sold,3,2
+"1636 Longvalley Dr, Northbrook, IL 60062","1,976",https://www.zillow.com/homedetails/1636-Longvalley-Dr-Northbrook-IL-60062/3340235_zpid/,"$482,000",243.92712550607288,Sold,4,3
+"4121 Rutgers Ln, Northbrook, IL 60062","3,158",https://www.zillow.com/homedetails/4121-Rutgers-Ln-Northbrook-IL-60062/3331515_zpid/,"$705,000",223.24255858138062,Sold,6,4
+"860 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/860-Winchester-Ln-Northbrook-IL-60062/3333302_zpid/,"$379,000",147.75828460038986,Sold,4,4
+"2069 Post Rd, Northbrook, IL 60062","3,157",https://www.zillow.com/homedetails/2069-Post-Rd-Northbrook-IL-60062/3342310_zpid/,"$492,500",156.00253405131454,Sold,4,5
+"1250 Thornapple Ln, Northbrook, IL 60062","2,706",https://www.zillow.com/homedetails/1250-Thornapple-Ln-Northbrook-IL-60062/3336262_zpid/,"$490,000",181.07908351810792,Sold,4,3
+"652 Greenwood Rd, Northbrook, IL 60062","9,999",https://www.zillow.com/homedetails/652-Greenwood-Rd-Northbrook-IL-60062/3330050_zpid/,"$316,000",31.6031603160316,Sold,2,1
+"2461 Shannon Rd, Northbrook, IL 60062","2,990",https://www.zillow.com/homedetails/2461-Shannon-Rd-Northbrook-IL-60062/3334169_zpid/,"$728,000",243.47826086956522,Sold,5,3
+"902 Suffield Ter, Northbrook, IL 60062","3,400",https://www.zillow.com/homedetails/902-Suffield-Ter-Northbrook-IL-60062/3331873_zpid/,"$687,000",202.05882352941177,Sold,5,3
+"1673 Western Ave, Northbrook, IL 60062","1,303",https://www.zillow.com/homedetails/1673-Western-Ave-Northbrook-IL-60062/3339964_zpid/,"$450,000",345.35686876438984,Sold,4,3
+"880 Huckleberry Ln, Northbrook, IL 60062","2,059",https://www.zillow.com/homedetails/880-Huckleberry-Ln-Northbrook-IL-60062/3334211_zpid/,"$550,000",267.11996114618745,Sold,4,3
+"802 Winchester Ln, Northbrook, IL 60062","2,244",https://www.zillow.com/homedetails/802-Winchester-Ln-Northbrook-IL-60062/3333284_zpid/,"$375,000",167.11229946524065,Sold,3,3
+"520 Alice Dr, Northbrook, IL 60062","1,439",https://www.zillow.com/homedetails/520-Alice-Dr-Northbrook-IL-60062/3330520_zpid/,"$315,000",218.90201528839472,Sold,3,1
+"2270 Washington Dr, Northbrook, IL 60062","2,520",https://www.zillow.com/homedetails/2270-Washington-Dr-Northbrook-IL-60062/159465765_zpid/,"$500,000",198.4126984126984,Sold,2,3
+"1859 Koehling Rd, Northbrook, IL 60062","2,242",https://www.zillow.com/homedetails/1859-Koehling-Rd-Northbrook-IL-60062/3329936_zpid/,"$345,000",153.88046387154327,Sold,3,3
+"4 Buttonwood Ln, Northbrook, IL 60062","3,109",https://www.zillow.com/homedetails/4-Buttonwood-Ln-Northbrook-IL-60062/3337620_zpid/,"$850,000",273.3998070119009,Sold,4,3
+"3713 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3713-Provenance-Way-Northbrook-IL-60062/306331720_zpid/,"$636,500",636500.0,Sold,-,f
+"944 Western Ave, Northbrook, IL 60062","2,746",https://www.zillow.com/homedetails/944-Western-Ave-Northbrook-IL-60062/3334342_zpid/,"$705,000",256.7370721048798,Sold,4,3
+"3801 Mission Hills Rd Apt 312, Northbrook, IL 60062","1,747",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-312-Northbrook-IL-60062/2081777428_zpid/,"$275,000",157.41270749856898,Sold,2,2
+"3085 Pheasant Creek Dr Apt 301, Northbrook, IL 60062","1,250",https://www.zillow.com/homedetails/3085-Pheasant-Creek-Dr-APT-301-Northbrook-IL-60062/3332764_zpid/,"$162,500",130.0,Sold,2,2
+"2132 Illinois Rd, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/2132-Illinois-Rd-Northbrook-IL-60062/3335629_zpid/,"$360,000",200.0,Sold,3,2
+"1346 Highpoint Ln, Northbrook, IL 60062","3,015",https://www.zillow.com/homedetails/1346-Highpoint-Ln-Northbrook-IL-60062/3333994_zpid/,"$472,500",156.71641791044777,Sold,4,2
+"2741 Wilshire Ln, Northbrook, IL 60062","2,132",https://www.zillow.com/homedetails/2741-Wilshire-Ln-Northbrook-IL-60062/3330272_zpid/,"$355,000",166.51031894934334,Sold,3,4
+"1601 Birch Rd, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/1601-Birch-Rd-Northbrook-IL-60062/3335218_zpid/,"$749,000",234.0625,Sold,4,3
+"3849 Sanders Rd, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/3849-Sanders-Rd-Northbrook-IL-60062/70453077_zpid/,"$138,500",115.41666666666667,Sold,2,2
+"3719 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3719-Provenance-Way-Northbrook-IL-60062/255363090_zpid/,"$534,000",534000.0,Sold,-,f
+"2328 Illinois Rd, Northbrook, IL 60062","3,020",https://www.zillow.com/homedetails/2328-Illinois-Rd-Northbrook-IL-60062/3335587_zpid/,"$675,000",223.50993377483445,Sold,4,3
+"1237 Southwind Dr, Northbrook, IL 60062","3,754",https://www.zillow.com/homedetails/1237-Southwind-Dr-Northbrook-IL-60062/3332435_zpid/,"$665,000",177.14437932871604,Sold,4,3
+"11 Bridlewood Rd, Northbrook, IL 60062","10,048",https://www.zillow.com/homedetails/11-Bridlewood-Rd-Northbrook-IL-60062/3337745_zpid/,"$800,000",79.61783439490446,Sold,8,7
+"3030 Pheasant Creek Dr Apt 209, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/3030-Pheasant-Creek-Dr-APT-209-Northbrook-IL-60062/2081279354_zpid/,"$224,000",131.76470588235293,Sold,3,2
+"2121 Washington Dr, Northbrook, IL 60062","2,521",https://www.zillow.com/homedetails/2121-Washington-Dr-Northbrook-IL-60062/159463762_zpid/,"$480,000",190.40063466878223,Sold,3,3
+"966 Suffield Ter, Northbrook, IL 60062","2,846",https://www.zillow.com/homedetails/966-Suffield-Ter-Northbrook-IL-60062/3331865_zpid/,"$695,000",244.20238931834155,Sold,5,3
+"2425 Illinois Rd, Northbrook, IL 60062","2,970",https://www.zillow.com/homedetails/2425-Illinois-Rd-Northbrook-IL-60062/3334980_zpid/,$1.02M,343.4343434343434,Sold,5,5
+"925 Spring Hill Dr Apt 304, Northbrook, IL 60062",,https://www.zillow.com/homedetails/925-Spring-Hill-Dr-APT-304-Northbrook-IL-60062/3332667_zpid/,"$166,000",166000.0,Sold,2,2
+"1654 Silverpine Dr, Northbrook, IL 60062","4,506",https://www.zillow.com/homedetails/1654-Silverpine-Dr-Northbrook-IL-60062/3340171_zpid/,"$825,000",183.08921438082555,Sold,5,5
+"4018 Bordeaux Dr, Northbrook, IL 60062","5,328",https://www.zillow.com/homedetails/4018-Bordeaux-Dr-Northbrook-IL-60062/3331029_zpid/,"$692,500",129.97372372372374,Sold,6,6
+"230 Old Post Rd, Northbrook, IL 60062","2,500",https://www.zillow.com/homedetails/230-Old-Post-Rd-Northbrook-IL-60062/3329213_zpid/,"$425,000",170.0,Sold,4,3
+"50 Constance Ln, Northbrook, IL 60062","2,420",https://www.zillow.com/homedetails/50-Constance-Ln-Northbrook-IL-60062/3330798_zpid/,"$285,000",117.76859504132231,Sold,5,3
+"728 Lexington Ct, Northbrook, IL 60062","1,991",https://www.zillow.com/homedetails/728-Lexington-Ct-Northbrook-IL-60062/3337253_zpid/,"$285,000",143.14414866901055,Sold,3,3
+"2112 Walnut Cir, Northbrook, IL 60062","3,482",https://www.zillow.com/homedetails/2112-Walnut-Cir-Northbrook-IL-60062/3330037_zpid/,"$520,000",149.33946008041355,Sold,4,5
+"1853 Somerset Ln, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1853-Somerset-Ln-Northbrook-IL-60062/3339196_zpid/,"$310,000",310000.0,Sold,3,2
+"1853 Somerset Ln #0, Northbrook, IL 60062","1,787",https://www.zillow.com/homedetails/1853-Somerset-Ln-0-Northbrook-IL-60062/2081044486_zpid/,"$310,000",173.47509792949077,Sold,2,4
+"3485 Carol Ln, Northbrook, IL 60062","2,448",https://www.zillow.com/homedetails/3485-Carol-Ln-Northbrook-IL-60062/3349809_zpid/,"$505,000",206.29084967320262,Sold,4,3
+"4007 Lindenwood Ln, Northbrook, IL 60062","2,776",https://www.zillow.com/homedetails/4007-Lindenwood-Ln-Northbrook-IL-60062/3330742_zpid/,"$410,100",147.73054755043228,Sold,4,3
+"1617 Dundee Rd, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/1617-Dundee-Rd-Northbrook-IL-60062/3335741_zpid/,"$239,000",177.03703703703704,Sold,3,1
+"3709 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3709-Provenance-Way-Northbrook-IL-60062/306331712_zpid/,"$475,000",475000.0,Sold,-,f
+"3418 River Falls Dr, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/3418-River-Falls-Dr-Northbrook-IL-60062/3333600_zpid/,"$540,000",180.0,Sold,5,3
+"1740 Mission Hills Rd Apt 106, Northbrook, IL 60062","1,552",https://www.zillow.com/homedetails/1740-Mission-Hills-Rd-APT-106-Northbrook-IL-60062/2085676481_zpid/,"$232,500",149.80670103092783,Sold,2,2
+"815 Timbers Edge, Northbrook, IL 60062",,https://www.zillow.com/homedetails/815-Timbers-Edge-Northbrook-IL-60062/245567427_zpid/,$1.00M,1000000.0,Sold,-,f
+"925 Spring Hill Dr Apt 207, Northbrook, IL 60062",,https://www.zillow.com/homedetails/925-Spring-Hill-Dr-APT-207-Northbrook-IL-60062/3332653_zpid/,"$140,000",140000.0,Sold,2,2
+"1100 Long Meadow Rd, Glencoe, IL 60062","5,000",https://www.zillow.com/homedetails/1100-Long-Meadow-Rd-Glencoe-IL-60062/3329032_zpid/,"$487,500",97.5,Sold,0,a
+"47 The Court Of Greenway, Northbrook, IL 60062",,https://www.zillow.com/homedetails/47-The-Court-Of-Greenway-Northbrook-IL-60062/3332558_zpid/,"$255,000",255000.0,Sold,-,s
+"2236 Brentwood Rd, Northbrook, IL 60062","5,769",https://www.zillow.com/homedetails/2236-Brentwood-Rd-Northbrook-IL-60062/3339149_zpid/,$1.31M,227.07574969665453,Sold,6,6
+"1709 Highland Ave, Northbrook, IL 60062","1,021",https://www.zillow.com/homedetails/1709-Highland-Ave-Northbrook-IL-60062/3340032_zpid/,"$317,500",310.9696376101861,Sold,4,2
+"901 Enfield Dr #15-g3, Northbrook, IL 60062","1,400",https://www.zillow.com/homedetails/901-Enfield-Dr-15-G3-Northbrook-IL-60062/65548905_zpid/,"$253,000",180.71428571428572,Sold,2,3
+"815 Timbers Edge Ln, Northbrook, IL 60062","3,050",https://www.zillow.com/homedetails/815-Timbers-Edge-Ln-Northbrook-IL-60062/2089939777_zpid/,$1.00M,327.8688524590164,Sold,3,3
+"2050 Valencia Dr Apt 316c, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2050-Valencia-Dr-APT-316C-Northbrook-IL-60062/3343971_zpid/,"$148,000",148000.0,Sold,2,2
+"1802 Fieldwood Dr, Northbrook, IL 60062","2,832",https://www.zillow.com/homedetails/1802-Fieldwood-Dr-Northbrook-IL-60062/3338979_zpid/,"$560,000",197.74011299435028,Sold,5,4
+"3801 Mission Hills Rd Apt 104, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-104-Northbrook-IL-60062/2090896508_zpid/,"$217,000",160.9792284866469,Sold,2,2
+"300 Forestway Dr, Northbrook, IL 60062","1,447",https://www.zillow.com/homedetails/300-Forestway-Dr-Northbrook-IL-60062/3338099_zpid/,"$298,500",206.28887353144438,Sold,3,2
+"1945 Redwood Ln, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1945-Redwood-Ln-Northbrook-IL-60062/3336035_zpid/,"$332,000",301.8181818181818,Sold,3,1
+"725 York Ct, Northbrook, IL 60062","1,991",https://www.zillow.com/homedetails/725-York-Ct-Northbrook-IL-60062/3337283_zpid/,"$300,000",150.67805123053742,Sold,3,3
+"3801 Mission Hills Rd Apt 305, Northbrook, IL 60062","2,205",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-305-Northbrook-IL-60062/2082754912_zpid/,"$245,000",111.11111111111111,Sold,2,3
+"2315 Woodlawn Rd, Northbrook, IL 60062","2,611",https://www.zillow.com/homedetails/2315-Woodlawn-Rd-Northbrook-IL-60062/3339519_zpid/,"$635,000",243.2018383761011,Sold,5,4
+"1280 Rudolph Rd Apt 4h, Northbrook, IL 60062","2,134",https://www.zillow.com/homedetails/1280-Rudolph-Rd-APT-4H-Northbrook-IL-60062/3329820_zpid/,"$325,000",152.2961574507966,Sold,3,2
+"3801 Mission Hills Rd Apt 211, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-APT-211-Northbrook-IL-60062/2082208296_zpid/,"$145,000",120.83333333333333,Sold,1, 
+"3 The Court Of Hidden Bay, Northbrook, IL 60062","1,814",https://www.zillow.com/homedetails/3-The-Court-Of-Hidden-Bay-Northbrook-IL-60062/3333703_zpid/,"$400,000",220.5071664829107,Sold,2,2
+"206 Constance Ln, Northbrook, IL 60062","2,560",https://www.zillow.com/homedetails/206-Constance-Ln-Northbrook-IL-60062/3330769_zpid/,"$629,900",246.0546875,Sold,5,3
+"3810 Mission Hills Rd Apt 402, Northbrook, IL 60062","2,425",https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-APT-402-Northbrook-IL-60062/3341748_zpid/,"$240,000",98.96907216494846,Sold,2,3
+"2511 Oak Ave, Northbrook, IL 60062","4,096",https://www.zillow.com/homedetails/2511-Oak-Ave-Northbrook-IL-60062/3334929_zpid/,"$325,000",79.345703125,Sold,5,4
+"1250 Rudolph Dr #2c, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/1250-Rudolph-Dr-2C-Northbrook-IL-60062/3329716_zpid/,"$170,000",141.66666666666666,Sold,1, 
+"1781 Tudor Ln Unit 301, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/1781-Tudor-Ln-UNIT-301-Northbrook-IL-60062/70452581_zpid/,"$2,900",1.7058823529411764,Sold,2,2
+"4525 Concord Ln, Northbrook, IL 60062","2,100",https://www.zillow.com/homedetails/4525-Concord-Ln-Northbrook-IL-60062/60259826_zpid/,"$365,000",173.8095238095238,Sold,2,3
+"3125 Toulon Dr Apt B2, Northbrook, IL 60062","1,450",https://www.zillow.com/homedetails/3125-Toulon-Dr-APT-B2-Northbrook-IL-60062/3333792_zpid/,"$257,500",177.58620689655172,Sold,2,2
+"1088 Shermer Rd Apt 204, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/1088-Shermer-Rd-APT-204-Northbrook-IL-60062/3335824_zpid/,"$304,900",203.26666666666668,Sold,2,2
+"4525 Concord Ln, Northbrook, IL 60062","2,100",https://www.zillow.com/homedetails/4525-Concord-Ln-Northbrook-IL-60062/60259826_zpid/,"$365,000",173.8095238095238,Sold,2,3
+"1771 Mission Hills Rd Apt 415, Northbrook, IL 60062","2,320",https://www.zillow.com/homedetails/1771-Mission-Hills-Rd-APT-415-Northbrook-IL-60062/3342103_zpid/,"$450,000",193.9655172413793,Sold,2,3
+"3709 Provenance Way, Northbrook, IL 60062","2,099",https://www.zillow.com/homedetails/3709-Provenance-Way-Northbrook-IL-60062/2082974003_zpid/,"$475,000",226.2982372558361,Sold,3,3
+"315 Pebblebrook Rd, Northbrook, IL 60062","3,150",https://www.zillow.com/homedetails/315-Pebblebrook-Rd-Northbrook-IL-60062/3338286_zpid/,"$783,000",248.57142857142858,Sold,4,4
+"1119 Adams St #b, Northbrook, IL 60062","2,721",https://www.zillow.com/homedetails/1119-Adams-St-B-Northbrook-IL-60062/2086653849_zpid/,"$505,000",185.59353178978316,Sold,3,3
+"2440 Oak Ave, Northbrook, IL 60062","1,928",https://www.zillow.com/homedetails/2440-Oak-Ave-Northbrook-IL-60062/3334902_zpid/,"$364,500",189.05601659751036,Sold,3,2
+"1329 Highpoint Ln, Northbrook, IL 60062","2,750",https://www.zillow.com/homedetails/1329-Highpoint-Ln-Northbrook-IL-60062/3334050_zpid/,"$590,000",214.54545454545453,Sold,4,3
+"2116 Royal Ridge Dr, Northbrook, IL 60062","2,600",https://www.zillow.com/homedetails/2116-Royal-Ridge-Dr-Northbrook-IL-60062/58355914_zpid/,"$545,000",209.6153846153846,Sold,3,3
+"3900 Mission Hills Rd N Apt 104, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3900-Mission-Hills-Rd-N-APT-104-Northbrook-IL-60062/3341873_zpid/,"$175,000",175000.0,Sold,2,-
+"3425 Sorrel Dr, Northbrook, IL 60062","1,210",https://www.zillow.com/homedetails/3425-Sorrel-Dr-Northbrook-IL-60062/3330355_zpid/,"$289,000",238.84297520661158,Sold,3,2
+"3860 Mission Hills Rd Apt 109, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-APT-109-Northbrook-IL-60062/3341878_zpid/,"$241,000",133.88888888888889,Sold,2,2
+"1250 Rudolph Dr #3n, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1250-Rudolph-Dr-3N-Northbrook-IL-60062/3329811_zpid/,"$105,000",105000.0,Sold,-,s
+"3936 Raintree Ln, Northbrook, IL 60062","3,223",https://www.zillow.com/homedetails/3936-Raintree-Ln-Northbrook-IL-60062/3332382_zpid/,"$625,000",193.91870927707106,Sold,5,5
+"3050 Pheasant Creek Dr #2-205c, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3050-Pheasant-Creek-Dr-2-205C-Northbrook-IL-60062/3332941_zpid/,"$160,000",160000.0,Sold,2,2
+"3050 Pheasant Creek Dr Apt 205, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3050-Pheasant-Creek-Dr-APT-205-Northbrook-IL-60062/3332968_zpid/,"$160,000",160000.0,Sold,2,2
+"2985 Keystone Rd, Northbrook, IL 60062","2,899",https://www.zillow.com/homedetails/2985-Keystone-Rd-Northbrook-IL-60062/3340317_zpid/,"$620,000",213.86685063815108,Sold,5,4
+"1688 Longvalley Dr, Northbrook, IL 60062","3,317",https://www.zillow.com/homedetails/1688-Longvalley-Dr-Northbrook-IL-60062/3340222_zpid/,"$575,000",173.349412119385,Sold,5,3
+"1336 Wessling Dr, Northbrook, IL 60062","2,700",https://www.zillow.com/homedetails/1336-Wessling-Dr-Northbrook-IL-60062/3332397_zpid/,"$550,000",203.7037037037037,Sold,4,3
+"1114 Cayuga Dr, Northbrook, IL 60062","2,586",https://www.zillow.com/homedetails/1114-Cayuga-Dr-Northbrook-IL-60062/3333126_zpid/,"$515,000",199.1492652745553,Sold,4,3
+"3936 Raintree Ln, Northbrook, IL 60062","3,223",https://www.zillow.com/homedetails/3936-Raintree-Ln-Northbrook-IL-60062/2085125190_zpid/,"$625,000",193.91870927707106,Sold,4,4
+"1405 Chartres Dr Apt B-1, Northbrook, IL 60062","1,291",https://www.zillow.com/homedetails/1405-Chartres-Dr-APT-B-1-Northbrook-IL-60062/3333775_zpid/,"$205,000",158.79163439194423,Sold,2,2
+"1800 Mission Hills Rd Apt 516, Northbrook, IL 60062","2,500",https://www.zillow.com/homedetails/1800-Mission-Hills-Rd-APT-516-Northbrook-IL-60062/3341777_zpid/,"$663,500",265.4,Sold,2,3
+"5 The Court Of Island Point, Northbrook, IL 60062","2,200",https://www.zillow.com/homedetails/5-The-Court-Of-Island-Point-Northbrook-IL-60062/3333495_zpid/,"$475,000",215.9090909090909,Sold,3,3
+"2511 Saint Stephens Grn, Northbrook, IL 60062","3,402",https://www.zillow.com/homedetails/2511-Saint-Stephens-Grn-Northbrook-IL-60062/3334379_zpid/,"$870,000",255.73192239858906,Sold,4,4
+"2539 Techny Rd, Northbrook, IL 60062","1,441",https://www.zillow.com/homedetails/2539-Techny-Rd-Northbrook-IL-60062/63689457_zpid/,"$1,950",1.3532269257460097,Sold,3,1
+"1100 Saranac Ln, Northbrook, IL 60062","2,586",https://www.zillow.com/homedetails/1100-Saranac-Ln-Northbrook-IL-60062/3334355_zpid/,"$428,000",165.50657385924208,Sold,4,3
+"1042 Briarwood Ln, Northbrook, IL 60062","2,025",https://www.zillow.com/homedetails/1042-Briarwood-Ln-Northbrook-IL-60062/3334534_zpid/,"$385,000",190.12345679012347,Sold,3,2
+"2975 Keystone Rd, Northbrook, IL 60062","3,336",https://www.zillow.com/homedetails/2975-Keystone-Rd-Northbrook-IL-60062/3340275_zpid/,"$800,000",239.8081534772182,Sold,5,4
+"3845 Gregory Dr, Northbrook, IL 60062","2,354",https://www.zillow.com/homedetails/3845-Gregory-Dr-Northbrook-IL-60062/3349856_zpid/,"$400,000",169.92353440951572,Sold,4,3
+"1714 Silverpine Dr, Northbrook, IL 60062","2,355",https://www.zillow.com/homedetails/1714-Silverpine-Dr-Northbrook-IL-60062/3340165_zpid/,"$490,000",208.06794055201698,Sold,4,3
+"308 Cottonwood Rd, Northbrook, IL 60062","1,150",https://www.zillow.com/homedetails/308-Cottonwood-Rd-Northbrook-IL-60062/3329533_zpid/,"$355,000",308.69565217391306,Sold,3,2
+"3801 Mission Hills Rd #e-311, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-E-311-Northbrook-IL-60062/3341144_zpid/,"$125,000",125000.0,Sold,1,-
+"3851 Mission Hills Rd #w-106, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-W-106-Northbrook-IL-60062/3341175_zpid/,"$187,000",138.7240356083086,Sold,2,2
+"322 Chipili Dr, Northbrook, IL 60062","1,231",https://www.zillow.com/homedetails/322-Chipili-Dr-Northbrook-IL-60062/3338073_zpid/,"$320,000",259.95125913891144,Sold,3,2
+"1714 Ferndale Ave, Northbrook, IL 60062","2,450",https://www.zillow.com/homedetails/1714-Ferndale-Ave-Northbrook-IL-60062/3335730_zpid/,"$530,000",216.3265306122449,Sold,4,3
+"1161 Taylor St, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1161-Taylor-St-Northbrook-IL-60062/253421655_zpid/,"$523,000",523000.0,Sold,S,o
+"1250 Rudolph Dr #5j, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1250-Rudolph-Dr-5J-Northbrook-IL-60062/3329764_zpid/,"$248,000",248000.0,Sold,-,s
+"1320 Brookside Ln, Northbrook, IL 60062","3,017",https://www.zillow.com/homedetails/1320-Brookside-Ln-Northbrook-IL-60062/3334817_zpid/,"$292,000",96.7848856479947,Sold,0,a
+"1320 Brookside Ln, Northbrook, IL 60062","3,017",https://www.zillow.com/homedetails/1320-Brookside-Ln-Northbrook-IL-60062/3334817_zpid/,"$292,000",96.7848856479947,Sold,0,a
+"1250 Rudolph Dr #5j, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1250-Rudolph-Dr-5J-Northbrook-IL-60062/3329764_zpid/,"$248,000",248000.0,Sold,-,s
+"1220 Rudolph Rd Apt 5p, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-5P-Northbrook-IL-60062/3329699_zpid/,"$350,000",350000.0,Sold,-,s
+"2521 Burgundy Ln, Northbrook, IL 60062","2,360",https://www.zillow.com/homedetails/2521-Burgundy-Ln-Northbrook-IL-60062/3343554_zpid/,"$455,000",192.79661016949152,Sold,2,2
+"31 Wellington Rd, Northbrook, IL 60062","2,610",https://www.zillow.com/homedetails/31-Wellington-Rd-Northbrook-IL-60062/3329314_zpid/,"$285,000",109.19540229885058,Sold,3,3
+"1431 Sunset Ridge Rd, Northbrook, IL 60062","1,073",https://www.zillow.com/homedetails/1431-Sunset-Ridge-Rd-Northbrook-IL-60062/3338079_zpid/,"$287,000",267.4743709226468,Sold,3,2
+"1028 Sussex Dr, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1028-Sussex-Dr-Northbrook-IL-60062/3332834_zpid/,"$245,000",245000.0,Sold,3,3
+"3900 Dundee Rd #203b, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3900-Dundee-Rd-203B-Northbrook-IL-60062/3331394_zpid/,"$137,000",137000.0,Sold,2,-
+"1042 Whitfield Rd, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1042-Whitfield-Rd-Northbrook-IL-60062/3337512_zpid/,"$360,000",327.27272727272725,Sold,3,2
+"985 Enfield Dr #11-e1, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/985-Enfield-Dr-11-E1-Northbrook-IL-60062/63689521_zpid/,"$189,000",126.0,Sold,2,-
+"4484 Fourwinds, Northbrook, IL 60062","2,698",https://www.zillow.com/homedetails/4484-Fourwinds-Northbrook-IL-60062/113966669_zpid/,"$389,000",144.1808747220163,Sold,4,4
+"228 Voltz Rd, Northbrook, IL 60062","1,231",https://www.zillow.com/homedetails/228-Voltz-Rd-Northbrook-IL-60062/3338173_zpid/,"$396,500",322.0958570268075,Sold,3,2
+"4032 Noble Ct, Northbrook, IL 60062","6,106",https://www.zillow.com/homedetails/4032-Noble-Ct-Northbrook-IL-60062/70427001_zpid/,$1.00M,163.77333770062233,Sold,6,6
+"1500 Lawrence Ln, Northbrook, IL 60062","5,819",https://www.zillow.com/homedetails/1500-Lawrence-Ln-Northbrook-IL-60062/3337731_zpid/,$1.16M,199.34696683278915,Sold,5,5
+"3851 Mission Hills Rd Apt 106, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-APT-106-Northbrook-IL-60062/2081328181_zpid/,"$187,000",138.7240356083086,Sold,2,2
+"1161 Taylor St, Northbrook, IL 60062","2,725",https://www.zillow.com/homedetails/1161-Taylor-St-Northbrook-IL-60062/159465772_zpid/,"$523,000",191.92660550458714,Sold,3,3
+"670 Ballantrae Dr Apt B, Northbrook, IL 60062","2,466",https://www.zillow.com/homedetails/670-Ballantrae-Dr-APT-B-Northbrook-IL-60062/2104398885_zpid/,"$312,500",126.72343876723438,Sold,3,3
+"3900 Dundee Rd Apt 203, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3900-Dundee-Rd-APT-203-Northbrook-IL-60062/2085011606_zpid/,"$137,000",137000.0,Sold,2,2
+"1752 Provenance Way, Northbrook, IL 60062","1,807",https://www.zillow.com/homedetails/1752-Provenance-Way-Northbrook-IL-60062/257635967_zpid/,"$634,500",351.1344770337576,Sold,2,3
+"837 Gleneagle Ln, Northbrook, IL 60062","3,410",https://www.zillow.com/homedetails/837-Gleneagle-Ln-Northbrook-IL-60062/58355955_zpid/,$1.02M,299.1202346041056,Sold,3,5
+"4043 Noble Ct, Northbrook, IL 60062","5,801",https://www.zillow.com/homedetails/4043-Noble-Ct-Northbrook-IL-60062/65542061_zpid/,$1.00M,172.38407171177383,Sold,6,5
+"1343 Landwehr Rd, Northbrook, IL 60062","2,342",https://www.zillow.com/homedetails/1343-Landwehr-Rd-Northbrook-IL-60062/3333895_zpid/,"$480,000",204.9530315969257,Sold,4,3
+"4200 Timberlane Dr, Northbrook, IL 60062","2,380",https://www.zillow.com/homedetails/4200-Timberlane-Dr-Northbrook-IL-60062/3341086_zpid/,"$410,000",172.2689075630252,Sold,3,3
+"4001 Walters Ave, Northbrook, IL 60062","2,121",https://www.zillow.com/homedetails/4001-Walters-Ave-Northbrook-IL-60062/3332195_zpid/,"$280,000",132.01320132013203,Sold,4,3
+"985 Enfield Dr, Northbrook, IL 60062","1,450",https://www.zillow.com/homedetails/985-Enfield-Dr-Northbrook-IL-60062/2083178782_zpid/,"$189,000",130.3448275862069,Sold,2,2
+"4369 Exeter Ln, Northbrook, IL 60062","2,500",https://www.zillow.com/homedetails/4369-Exeter-Ln-Northbrook-IL-60062/49913277_zpid/,"$450,000",180.0,Sold,3,2
+"1614 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1614-Provenance-Way-Northbrook-IL-60062/306331816_zpid/,"$779,000",779000.0,Sold,-,f
+"3911 Mission Hills Rd N #4a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3911-Mission-Hills-Rd-N-4A-Northbrook-IL-60062/3341495_zpid/,"$405,000",405000.0,Sold,-,s
+"3722 Maple Ave, Northbrook, IL 60062","5,472",https://www.zillow.com/homedetails/3722-Maple-Ave-Northbrook-IL-60062/3332238_zpid/,"$750,000",137.06140350877192,Sold,4,5
+"2050 Valencia Dr Apt 216c, Northbrook, IL 60062","1,000",https://www.zillow.com/homedetails/2050-Valencia-Dr-APT-216C-Northbrook-IL-60062/3343955_zpid/,"$160,000",160.0,Sold,2,2
+"1253 Sunset Ridge Rd, Northbrook, IL 60062","1,650",https://www.zillow.com/homedetails/1253-Sunset-Ridge-Rd-Northbrook-IL-60062/3338045_zpid/,"$255,000",154.54545454545453,Sold,5,3
+"1123 Midway Rd, Northbrook, IL 60062","2,786",https://www.zillow.com/homedetails/1123-Midway-Rd-Northbrook-IL-60062/3337560_zpid/,"$218,500",78.4278535534817,Sold,4,4
+"3221 W Parkway Dr Apt 21d, Northbrook, IL 60062",850,https://www.zillow.com/homedetails/3221-W-Parkway-Dr-APT-21D-Northbrook-IL-60062/70452997_zpid/,"$123,051",144.7658823529412,Sold,1, 
+"3515 Merle Ln, Northbrook, IL 60062","3,056",https://www.zillow.com/homedetails/3515-Merle-Ln-Northbrook-IL-60062/3349822_zpid/,"$478,500",156.57722513089004,Sold,4,3
+"3911 Mission Hills Rd, Northbrook, IL 60062","2,655",https://www.zillow.com/homedetails/3911-Mission-Hills-Rd-Northbrook-IL-60062/2082483834_zpid/,"$405,000",152.54237288135593,Sold,4,4
+"27 Bridlewood Rd, Northbrook, IL 60062","6,265",https://www.zillow.com/homedetails/27-Bridlewood-Rd-Northbrook-IL-60062/3337676_zpid/,"$960,000",153.23224261771747,Sold,5,6
+"4050 Dundee Rd #306h, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/4050-Dundee-Rd-306H-Northbrook-IL-60062/3330981_zpid/,"$158,000",117.03703703703704,Sold,2,2
+"1880 Mission Hills Ln #8-f, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1880-Mission-Hills-Ln-8-F-Northbrook-IL-60062/3341267_zpid/,"$340,000",340000.0,Sold,-,s
+"1340 Candlewood Hill Rd, Northbrook, IL 60062","2,864",https://www.zillow.com/homedetails/1340-Candlewood-Hill-Rd-Northbrook-IL-60062/3335150_zpid/,"$630,000",219.97206703910615,Sold,4,3
+"1607 Techny Rd, Northbrook, IL 60062","1,181",https://www.zillow.com/homedetails/1607-Techny-Rd-Northbrook-IL-60062/3338745_zpid/,$1.20M,1016.0880609652836,Sold,3,1
+"1340 Candlewood Hill Rd, Northbrook, IL 60062","2,864",https://www.zillow.com/homedetails/1340-Candlewood-Hill-Rd-Northbrook-IL-60062/3335150_zpid/,"$630,000",219.97206703910615,Sold,4,3
+"2830 Vogay Ln, Northbrook, IL 60062","2,063",https://www.zillow.com/homedetails/2830-Vogay-Ln-Northbrook-IL-60062/3342338_zpid/,"$365,000",176.9268056228793,Sold,3,2
+"2327 Cambridge Dr, Northbrook, IL 60062","3,662",https://www.zillow.com/homedetails/2327-Cambridge-Dr-Northbrook-IL-60062/3340789_zpid/,"$450,000",122.88367012561442,Sold,4,4
+"2822 Farmington Rd, Northbrook, IL 60062","2,700",https://www.zillow.com/homedetails/2822-Farmington-Rd-Northbrook-IL-60062/3342661_zpid/,"$615,000",227.77777777777777,Sold,4,3
+"3473 Dauphine Ave, Northbrook, IL 60062","4,100",https://www.zillow.com/homedetails/3473-Dauphine-Ave-Northbrook-IL-60062/3330322_zpid/,"$892,000",217.5609756097561,Sold,5,5
+"3955 Mission Hills Rd Apt A, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/3955-Mission-Hills-Rd-APT-A-Northbrook-IL-60062/2082042233_zpid/,"$142,000",118.33333333333333,Sold,1, 
+"4010 Greenacre Dr, Northbrook, IL 60062","5,152",https://www.zillow.com/homedetails/4010-Greenacre-Dr-Northbrook-IL-60062/3331533_zpid/,"$975,000",189.24689440993788,Sold,5,4
+"1280 Rudolph Rd Apt 3b, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1280-Rudolph-Rd-APT-3B-Northbrook-IL-60062/3329800_zpid/,"$235,000",235000.0,Sold,-,s
+"3467 Whirlaway Dr, Northbrook, IL 60062","3,051",https://www.zillow.com/homedetails/3467-Whirlaway-Dr-Northbrook-IL-60062/253421371_zpid/,"$575,000",188.4627990822681,Sold,S,o
+"2716 Kingston Dr, Northbrook, IL 60062","20,048",https://www.zillow.com/homedetails/2716-Kingston-Dr-Northbrook-IL-60062/3339701_zpid/,"$420,000",20.949720670391063,Sold,3,3
+"1800 Mission Hills Rd Apt 315, Northbrook, IL 60062","2,312",https://www.zillow.com/homedetails/1800-Mission-Hills-Rd-APT-315-Northbrook-IL-60062/3341744_zpid/,"$395,000",170.8477508650519,Sold,3,3
+"1800 Mission Hills Rd #g-53, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1800-Mission-Hills-Rd-G-53-Northbrook-IL-60062/3341831_zpid/,"$395,000",395000.0,Sold,-,s
+"1880 Mission Hills Ln, Northbrook, IL 60062","4,287",https://www.zillow.com/homedetails/1880-Mission-Hills-Ln-Northbrook-IL-60062/2082733151_zpid/,"$340,000",79.30954047119198,Sold,3,3
+"864 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/864-Winchester-Ln-Northbrook-IL-60062/3333304_zpid/,"$420,000",163.74269005847952,Sold,4,2
+"3741 Mission Hills Rd Apt 208, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/3741-Mission-Hills-Rd-APT-208-Northbrook-IL-60062/3341591_zpid/,"$240,000",133.33333333333334,Sold,2,2
+"3755 Mission Hills Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3755-Mission-Hills-Rd-Northbrook-IL-60062/3341290_zpid/,"$275,000",275000.0,Sold,2,3
+"3955 Mission Hills Rd N #1a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3955-Mission-Hills-Rd-N-1A-Northbrook-IL-60062/3341093_zpid/,"$142,000",142000.0,Sold,-,s
+"2757 Royal Dr, Northbrook, IL 60062","2,501",https://www.zillow.com/homedetails/2757-Royal-Dr-Northbrook-IL-60062/3335157_zpid/,"$473,000",189.12435025989603,Sold,4,3
+"2049 Plymouth Ln, Northbrook, IL 60062","1,904",https://www.zillow.com/homedetails/2049-Plymouth-Ln-Northbrook-IL-60062/3339220_zpid/,"$405,000",212.71008403361344,Sold,2,3
+"2808 Crabtree Ln, Northbrook, IL 60062","1,900",https://www.zillow.com/homedetails/2808-Crabtree-Ln-Northbrook-IL-60062/3333217_zpid/,"$480,000",252.6315789473684,Sold,3,3
+"1831 Mission Hills Rd Apt 411, Northbrook, IL 60062","2,550",https://www.zillow.com/homedetails/1831-Mission-Hills-Rd-APT-411-Northbrook-IL-60062/3341558_zpid/,"$285,000",111.76470588235294,Sold,2,2
+"1163 Heritage Oaks Dr, Northbrook, IL 60062","8,029",https://www.zillow.com/homedetails/1163-Heritage-Oaks-Dr-Northbrook-IL-60062/101275759_zpid/,$1.71M,212.9779549134388,Sold,7,8
+"1183 Shermer Rd, Northbrook, IL 60062","1,128",https://www.zillow.com/homedetails/1183-Shermer-Rd-Northbrook-IL-60062/3336571_zpid/,"$701,500",621.8971631205674,Sold,0,a
+"2531 Buckland Ln, Northbrook, IL 60062","2,807",https://www.zillow.com/homedetails/2531-Buckland-Ln-Northbrook-IL-60062/3330205_zpid/,"$415,000",147.84467402921268,Sold,2,4
+"1239 Shermer Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1239-Shermer-Rd-Northbrook-IL-60062/158078212_zpid/,"$701,500",701500.0,Sold,S,o
+"1199 Shermer Rd, Northbrook, IL 60062","1,947",https://www.zillow.com/homedetails/1199-Shermer-Rd-Northbrook-IL-60062/3336570_zpid/,"$701,500",360.2978941961993,Sold,4,-
+"1179 Shermer Rd, Northbrook, IL 60062","1,414",https://www.zillow.com/homedetails/1179-Shermer-Rd-Northbrook-IL-60062/3336572_zpid/,"$701,500",496.1103253182461,Sold,4,2
+"2050 Walnut Cir, Northbrook, IL 60062","1,805",https://www.zillow.com/homedetails/2050-Walnut-Cir-Northbrook-IL-60062/3330032_zpid/,"$346,000",191.6897506925208,Sold,3,3
+"2123 Brentwood Rd, Northbrook, IL 60062","3,276",https://www.zillow.com/homedetails/2123-Brentwood-Rd-Northbrook-IL-60062/3339334_zpid/,"$850,000",259.46275946275944,Sold,5,3
+"1235 Shermer Rd, Northbrook, IL 60062","1,831",https://www.zillow.com/homedetails/1235-Shermer-Rd-Northbrook-IL-60062/3336568_zpid/,"$701,500",383.1239759694156,Sold,-,s
+"1229 Shermer Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1229-Shermer-Rd-Northbrook-IL-60062/158078185_zpid/,"$701,500",701500.0,Sold,S,o
+"1205 Shermer Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1205-Shermer-Rd-Northbrook-IL-60062/158078186_zpid/,"$701,500",701500.0,Sold,S,o
+"3467 Whirlaway Dr, Northbrook, IL 60062","3,051",https://www.zillow.com/homedetails/3467-Whirlaway-Dr-Northbrook-IL-60062/3340688_zpid/,"$575,000",188.4627990822681,Sold,4,2
+"3642 Russett Ln, Northbrook, IL 60062","4,000",https://www.zillow.com/homedetails/3642-Russett-Ln-Northbrook-IL-60062/3332460_zpid/,"$540,000",135.0,Sold,4,4
+"1934 Barberry Rd, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/1934-Barberry-Rd-Northbrook-IL-60062/3340414_zpid/,"$535,000",167.1875,Sold,4,3
+"2300 Peachtree Ln, Northbrook, IL 60062","1,510",https://www.zillow.com/homedetails/2300-Peachtree-Ln-Northbrook-IL-60062/3334727_zpid/,"$420,000",278.1456953642384,Sold,4,1
+"2216 Ash Ln, Northbrook, IL 60062","1,496",https://www.zillow.com/homedetails/2216-Ash-Ln-Northbrook-IL-60062/3334701_zpid/,"$495,000",330.88235294117646,Sold,3,2
+"245 Linden Rd, Northbrook, IL 60062","2,650",https://www.zillow.com/homedetails/245-Linden-Rd-Northbrook-IL-60062/3329588_zpid/,"$590,000",222.64150943396226,Sold,5,-
+"1487 Shermer Rd Apt 204b, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1487-Shermer-Rd-APT-204B-Northbrook-IL-60062/3336705_zpid/,"$222,000",222000.0,Sold,3,2
+"3810 Mission Hills Rd #g-11, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-G-11-Northbrook-IL-60062/3341789_zpid/,"$340,000",340000.0,Sold,-,s
+"840 Winchester Ln, Northbrook, IL 60062","2,565",https://www.zillow.com/homedetails/840-Winchester-Ln-Northbrook-IL-60062/3333295_zpid/,"$428,000",166.8615984405458,Sold,4,3
+"4584 Deer Trl, Northbrook, IL 60062","2,486",https://www.zillow.com/homedetails/4584-Deer-Trl-Northbrook-IL-60062/3279292_zpid/,"$310,000",124.69831053901851,Sold,4,3
+"533 Waters Edge Ct, Northbrook, IL 60062","3,974",https://www.zillow.com/homedetails/533-Waters-Edge-Ct-Northbrook-IL-60062/3329973_zpid/,"$793,000",199.54705586311022,Sold,5,4
+"2564 Cotswolds Ct, Northbrook, IL 60062","3,990",https://www.zillow.com/homedetails/2564-Cotswolds-Ct-Northbrook-IL-60062/3330153_zpid/,"$460,000",115.28822055137844,Sold,4,3
+"3810 Mission Hills Rd #g-10, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-G-10-Northbrook-IL-60062/3341788_zpid/,"$340,000",340000.0,Sold,-,s
+"127 Avon Rd, Northbrook, IL 60062","2,610",https://www.zillow.com/homedetails/127-Avon-Rd-Northbrook-IL-60062/3329380_zpid/,"$330,000",126.4367816091954,Sold,3,3
+"2406 Illinois Rd, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/2406-Illinois-Rd-Northbrook-IL-60062/3334963_zpid/,"$850,000",283.3333333333333,Sold,6,5
+"2936 Acorn Ln, Northbrook, IL 60062","2,500",https://www.zillow.com/homedetails/2936-Acorn-Ln-Northbrook-IL-60062/3333229_zpid/,"$568,000",227.2,Sold,3,3
+"101 Pointe Dr #1107, Northbrook, IL 60062",,https://www.zillow.com/homedetails/101-Pointe-Dr-1107-Northbrook-IL-60062/80839531_zpid/,"$219,000",219000.0,Sold,2,-
+"305 Chipili Dr, Northbrook, IL 60062","1,496",https://www.zillow.com/homedetails/305-Chipili-Dr-Northbrook-IL-60062/3338089_zpid/,"$325,000",217.24598930481284,Sold,3,2
+"2123 Brentwood Rd, Northbrook, IL 60062","3,600",https://www.zillow.com/homedetails/2123-Brentwood-Rd-Northbrook-IL-60062/2082332340_zpid/,"$850,000",236.11111111111111,Sold,5,3
+"4333 Oak Knoll Ct, Northbrook, IL 60062","3,222",https://www.zillow.com/homedetails/4333-Oak-Knoll-Ct-Northbrook-IL-60062/3330716_zpid/,"$692,500",214.9286157666046,Sold,4,4
+"4525 Forest View Dr, Northbrook, IL 60062","2,060",https://www.zillow.com/homedetails/4525-Forest-View-Dr-Northbrook-IL-60062/3279339_zpid/,"$450,000",218.44660194174756,Sold,3,2
+"3741 Mission Hills Rd Apt 207, Northbrook, IL 60062","1,746",https://www.zillow.com/homedetails/3741-Mission-Hills-Rd-APT-207-Northbrook-IL-60062/3341590_zpid/,"$350,500",200.74455899198168,Sold,2,-
+"3741 Mission Hills Rd #g-61, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3741-Mission-Hills-Rd-G-61-Northbrook-IL-60062/3341692_zpid/,"$350,500",350500.0,Sold,-,s
+"3851 Mission Hills Rd #w-102, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-W-102-Northbrook-IL-60062/3341171_zpid/,"$157,000",157000.0,Sold,-,s
+"660 Ballantrae Dr #1000b, Northbrook, IL 60062",,https://www.zillow.com/homedetails/660-Ballantrae-Dr-1000B-Northbrook-IL-60062/3329277_zpid/,"$270,000",270000.0,Sold,-,s
+"660 Ballantrae Dr Apt B, Northbrook, IL 60062","2,300",https://www.zillow.com/homedetails/660-Ballantrae-Dr-APT-B-Northbrook-IL-60062/2084725279_zpid/,"$270,000",117.3913043478261,Sold,2,2
+"4020 Dundee Rd, Northbrook, IL 60062","2,300",https://www.zillow.com/homedetails/4020-Dundee-Rd-Northbrook-IL-60062/3330954_zpid/,"$299,000",130.0,Sold,3,3
+"3128 Antelope Springs Rd, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/3128-Antelope-Springs-Rd-Northbrook-IL-60062/3332782_zpid/,"$295,000",163.88888888888889,Sold,3,3
+"1740 Oak Ave, Northbrook, IL 60062","1,964",https://www.zillow.com/homedetails/1740-Oak-Ave-Northbrook-IL-60062/3336857_zpid/,"$530,000",269.857433808554,Sold,3,2
+"956 Red Haw Rd, Northbrook, IL 60062","2,427",https://www.zillow.com/homedetails/956-Red-Haw-Rd-Northbrook-IL-60062/3336429_zpid/,"$560,000",230.73753605274,Sold,3,2
+"1051 Cobblestone Ct, Northbrook, IL 60062","2,504",https://www.zillow.com/homedetails/1051-Cobblestone-Ct-Northbrook-IL-60062/3329202_zpid/,"$500,000",199.68051118210863,Sold,4,3
+"1054 Western Ave, Northbrook, IL 60062","2,776",https://www.zillow.com/homedetails/1054-Western-Ave-Northbrook-IL-60062/3334400_zpid/,"$589,000",212.17579250720462,Sold,4,3
+"591 Greenwood Rd, Northbrook, IL 60062","3,444",https://www.zillow.com/homedetails/591-Greenwood-Rd-Northbrook-IL-60062/3330103_zpid/,"$590,000",171.31242740998837,Sold,5,4
+"2565 Fairford Ln, Northbrook, IL 60062","4,000",https://www.zillow.com/homedetails/2565-Fairford-Ln-Northbrook-IL-60062/3330124_zpid/,"$525,000",131.25,Sold,4,4
+"1230 Woodview Ln, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1230-Woodview-Ln-Northbrook-IL-60062/253423197_zpid/,$1.05M,1050000.0,Sold,S,o
+"1825 Greenview Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1825-Greenview-Rd-Northbrook-IL-60062/158081968_zpid/,"$860,000",860000.0,Sold,0,a
+"2545 Techny Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2545-Techny-Rd-Northbrook-IL-60062/158081974_zpid/,"$860,000",860000.0,Sold,0,c
+"2194 Greenview Rd, Northbrook, IL 60062",800,https://www.zillow.com/homedetails/2194-Greenview-Rd-Northbrook-IL-60062/58356011_zpid/,"$860,000",1075.0,Sold,2,1
+"2180 Greenview Rd, Northbrook, IL 60062","1,725",https://www.zillow.com/homedetails/2180-Greenview-Rd-Northbrook-IL-60062/3339577_zpid/,"$860,000",498.5507246376812,Sold,0,a
+"2150 Greenview Rd, Northbrook, IL 60062","5,904",https://www.zillow.com/homedetails/2150-Greenview-Rd-Northbrook-IL-60062/3339575_zpid/,"$860,000",145.6639566395664,Sold,6,5
+"2164 Greenview Rd, Northbrook, IL 60062","2,000",https://www.zillow.com/homedetails/2164-Greenview-Rd-Northbrook-IL-60062/3339576_zpid/,"$860,000",430.0,Sold,3,2
+"2130 Greenview Rd, Northbrook, IL 60062","1,254",https://www.zillow.com/homedetails/2130-Greenview-Rd-Northbrook-IL-60062/3339574_zpid/,"$860,000",685.805422647528,Sold,4,2
+"2120 Greenview Rd, Northbrook, IL 60062","1,507",https://www.zillow.com/homedetails/2120-Greenview-Rd-Northbrook-IL-60062/3339573_zpid/,"$860,000",570.6702057067021,Sold,4,2
+"1930 Cypress Ln, Northbrook, IL 60062","2,644",https://www.zillow.com/homedetails/1930-Cypress-Ln-Northbrook-IL-60062/3339006_zpid/,"$570,000",215.58245083207262,Sold,4,3
+"800 Fair Ln, Northbrook, IL 60062","2,200",https://www.zillow.com/homedetails/800-Fair-Ln-Northbrook-IL-60062/3334779_zpid/,"$225,000",102.27272727272727,Sold,3,2
+"2215 Illinois Rd, Northbrook, IL 60062","1,934",https://www.zillow.com/homedetails/2215-Illinois-Rd-Northbrook-IL-60062/3335680_zpid/,"$460,000",237.8490175801448,Sold,3,3
+"4000 Dundee Rd Apt 303-a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/4000-Dundee-Rd-APT-303-A-Northbrook-IL-60062/3330939_zpid/,"$157,500",157500.0,Sold,-,s
+"4463 Fourwinds, Northbrook, IL 60062","2,698",https://www.zillow.com/homedetails/4463-Fourwinds-Northbrook-IL-60062/3279317_zpid/,"$445,000",164.936990363232,Sold,3,3
+"4549 Lindenwood Ln, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/4549-Lindenwood-Ln-Northbrook-IL-60062/3279154_zpid/,"$575,000",239.58333333333334,Sold,2,2
+"2215 Illinois Rd, Northbrook, IL 60062","1,934",https://www.zillow.com/homedetails/2215-Illinois-Rd-Northbrook-IL-60062/3335680_zpid/,"$460,000",237.8490175801448,Sold,3,3
+"3851 Mission Hills Rd Apt 102, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-APT-102-Northbrook-IL-60062/2123177703_zpid/,"$157,000",116.46884272997033,Sold,2,2
+"1402 Waukegan Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1402-Waukegan-Rd-Northbrook-IL-60062/3337104_zpid/,"$280,000",280000.0,Sold,3,3
+"638 Dunsten Cir, Northbrook, IL 60062","1,164",https://www.zillow.com/homedetails/638-Dunsten-Cir-Northbrook-IL-60062/3330237_zpid/,"$350,000",300.6872852233677,Sold,4,3
+"1023 Dell Rd, Northbrook, IL 60062","4,004",https://www.zillow.com/homedetails/1023-Dell-Rd-Northbrook-IL-60062/3337451_zpid/,"$810,000",202.2977022977023,Sold,5,4
+"947 Kensington Dr #7-e3, Northbrook, IL 60062",,https://www.zillow.com/homedetails/947-Kensington-Dr-7-E3-Northbrook-IL-60062/65553956_zpid/,"$237,500",237500.0,Sold,2,2
+"1920 Cherry Ln Apt 118, Northbrook, IL 60062",850,https://www.zillow.com/homedetails/1920-Cherry-Ln-APT-118-Northbrook-IL-60062/3336146_zpid/,"$158,000",185.88235294117646,Sold,2,1
+"1224 Hillside Dr, Northbrook, IL 60062","3,200",https://www.zillow.com/homedetails/1224-Hillside-Dr-Northbrook-IL-60062/3336410_zpid/,"$740,000",231.25,Sold,4,2
+"4000 Dundee Rd Apt 303, Northbrook, IL 60062",,https://www.zillow.com/homedetails/4000-Dundee-Rd-APT-303-Northbrook-IL-60062/2083496543_zpid/,"$157,500",157500.0,Sold,2,2
+"2 The Court Of Harborside, Northbrook, IL 60062","1,450",https://www.zillow.com/homedetails/2-The-Court-Of-Harborside-Northbrook-IL-60062/3333452_zpid/,"$185,000",127.58620689655173,Sold,2,2
+"1540 Church St, Northbrook, IL 60062","1,706",https://www.zillow.com/homedetails/1540-Church-St-Northbrook-IL-60062/3336921_zpid/,"$182,000",106.68229777256741,Sold,7, 
+"1145 Dell Rd, Northbrook, IL 60062","1,072",https://www.zillow.com/homedetails/1145-Dell-Rd-Northbrook-IL-60062/3337604_zpid/,"$260,000",242.53731343283582,Sold,3,1
+"3860 Mission Hills Rd #g-118, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-G-118-Northbrook-IL-60062/3342239_zpid/,"$5,000",5000.0,Sold,-,s
+"1116 Kensington Dr #21-a1, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1116-Kensington-Dr-21-A1-Northbrook-IL-60062/65553919_zpid/,"$235,000",235000.0,Sold,2,2
+"1046 Longaker Rd, Northbrook, IL 60062","1,501",https://www.zillow.com/homedetails/1046-Longaker-Rd-Northbrook-IL-60062/3337481_zpid/,"$312,000",207.86142571618922,Sold,3,2
+"2150 Valencia Dr Apt 109a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2150-Valencia-Dr-APT-109A-Northbrook-IL-60062/3343821_zpid/,"$170,000",170000.0,Sold,2,2
+"3810 Mission Hills Rd #g-43, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3810-Mission-Hills-Rd-G-43-Northbrook-IL-60062/3341821_zpid/,"$32,500",32500.0,Sold,-,s
+"3341 Lakeside Ave, Northbrook, IL 60062","4,485",https://www.zillow.com/homedetails/3341-Lakeside-Ave-Northbrook-IL-60062/3339902_zpid/,$1.12M,249.72129319955408,Sold,5,5
+"817 Cedar Ln, Northbrook, IL 60062","1,026",https://www.zillow.com/homedetails/817-Cedar-Ln-Northbrook-IL-60062/3334764_zpid/,"$336,000",327.48538011695905,Sold,0,c
+"1740 Mission Hills Rd Apt 103, Northbrook, IL 60062","1,575",https://www.zillow.com/homedetails/1740-Mission-Hills-Rd-APT-103-Northbrook-IL-60062/3341417_zpid/,"$305,000",193.65079365079364,Sold,2,2
+"1570 Christina Ln, Northbrook, IL 60062","1,447",https://www.zillow.com/homedetails/1570-Christina-Ln-Northbrook-IL-60062/3333852_zpid/,"$465,000",321.35452660677265,Sold,0,c
+"1414 Wescott Rd, Northbrook, IL 60062","1,332",https://www.zillow.com/homedetails/1414-Wescott-Rd-Northbrook-IL-60062/3334864_zpid/,"$367,000",275.52552552552555,Sold,3,2
+"3705 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3705-Provenance-Way-Northbrook-IL-60062/255363087_zpid/,"$558,500",558500.0,Sold,-,f
+"4005 Picardy Dr, Northbrook, IL 60062","2,023",https://www.zillow.com/homedetails/4005-Picardy-Dr-Northbrook-IL-60062/3331262_zpid/,"$448,500",221.7004448838359,Sold,3,2
+"1250 Rudolph Dr #3g, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1250-Rudolph-Dr-3G-Northbrook-IL-60062/3329734_zpid/,"$366,000",366000.0,Sold,-,s
+"485 Alice Dr, Northbrook, IL 60062","5,787",https://www.zillow.com/homedetails/485-Alice-Dr-Northbrook-IL-60062/3330531_zpid/,$1.07M,184.8971833419734,Sold,5,8
+"3110 Pheasant Creek Dr #a303, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-A303-Northbrook-IL-60062/3332717_zpid/,"$180,000",133.33333333333334,Sold,2,2
+"1826 Kiest Ave, Northbrook, IL 60062","1,482",https://www.zillow.com/homedetails/1826-Kiest-Ave-Northbrook-IL-60062/3335863_zpid/,"$390,000",263.1578947368421,Sold,4,3
+"3830 Gregory Dr, Northbrook, IL 60062","1,756",https://www.zillow.com/homedetails/3830-Gregory-Dr-Northbrook-IL-60062/3349832_zpid/,"$280,000",159.45330296127563,Sold,5,2
+"1132 Galway Ct, Northbrook, IL 60062","2,801",https://www.zillow.com/homedetails/1132-Galway-Ct-Northbrook-IL-60062/3333080_zpid/,"$590,000",210.6390574794716,Sold,4,3
+"2068 Techny Rd, Northbrook, IL 60062","1,609",https://www.zillow.com/homedetails/2068-Techny-Rd-Northbrook-IL-60062/3339174_zpid/,"$375,000",233.06401491609697,Sold,3,2
+"114 Poplar Ct, Northbrook, IL 60062","2,456",https://www.zillow.com/homedetails/114-Poplar-Ct-Northbrook-IL-60062/3279078_zpid/,"$520,000",211.72638436482086,Sold,2,3
+"4323 Phyllis Dr, Northbrook, IL 60062","3,084",https://www.zillow.com/homedetails/4323-Phyllis-Dr-Northbrook-IL-60062/3330851_zpid/,"$210,000",68.09338521400778,Sold,4,2
+"1641 Walters Ave, Northbrook, IL 60062","2,917",https://www.zillow.com/homedetails/1641-Walters-Ave-Northbrook-IL-60062/3336922_zpid/,"$520,000",178.26534110387385,Sold,4,3
+"1117 Butternut Ln, Northbrook, IL 60062","2,569",https://www.zillow.com/homedetails/1117-Butternut-Ln-Northbrook-IL-60062/3334584_zpid/,"$375,000",145.97119501751655,Sold,5,2
+"12 Cottonwood Rd, Northbrook, IL 60062","5,231",https://www.zillow.com/homedetails/12-Cottonwood-Rd-Northbrook-IL-60062/3329462_zpid/,$1.02M,194.99139743834832,Sold,6,7
+"510 W Mission Hls, Northbrook, IL 60062",,https://www.zillow.com/homedetails/510-W-Mission-Hls-Northbrook-IL-60062/3342184_zpid/,"$350,000",350000.0,Sold,-,s
+"1220 Rudolph Rd Office 1-p, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Rudolph-Rd-OFFICE-1-P-Northbrook-IL-60062/3329643_zpid/,"$386,000",386000.0,Sold,2,-
+"858 Woodbine Ln, Northbrook, IL 60062","3,000",https://www.zillow.com/homedetails/858-Woodbine-Ln-Northbrook-IL-60062/3334294_zpid/,"$725,000",241.66666666666666,Sold,5,3
+"900 Meadow Rd, Northbrook, IL 60062","1,508",https://www.zillow.com/homedetails/900-Meadow-Rd-Northbrook-IL-60062/3334447_zpid/,"$267,000",177.0557029177719,Sold,3,2
+"1771 Mission Hills Rd Apt 216, Northbrook, IL 60062","2,425",https://www.zillow.com/homedetails/1771-Mission-Hills-Rd-APT-216-Northbrook-IL-60062/3342072_zpid/,"$350,000",144.3298969072165,Sold,2,3
+"925 Spring Hill Dr Apt 316, Northbrook, IL 60062",,https://www.zillow.com/homedetails/925-Spring-Hill-Dr-APT-316-Northbrook-IL-60062/3332679_zpid/,"$195,000",195000.0,Sold,2,2
+"1220 Rudolph Rd Office 1-p, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Rudolph-Rd-OFFICE-1-P-Northbrook-IL-60062/3329643_zpid/,"$386,000",386000.0,Sold,2,-
+"510 W Mission Hls, Northbrook, IL 60062",,https://www.zillow.com/homedetails/510-W-Mission-Hls-Northbrook-IL-60062/3342184_zpid/,"$350,000",350000.0,Sold,-,s
+"3707 Provenance Way, Northbrook, IL 60062","2,350",https://www.zillow.com/homedetails/3707-Provenance-Way-Northbrook-IL-60062/2085720939_zpid/,"$564,228",240.09702127659574,Sold,3,3
+"3605 Pebble Beach Rd, Northbrook, IL 60062","4,582",https://www.zillow.com/homedetails/3605-Pebble-Beach-Rd-Northbrook-IL-60062/3331834_zpid/,$1.18M,257.529463116543,Sold,5,6
+"2450 Landwehr Rd, Northbrook, IL 60062","4,050",https://www.zillow.com/homedetails/2450-Landwehr-Rd-Northbrook-IL-60062/3342350_zpid/,"$612,500",151.23456790123456,Sold,5,5
+"2091 Avalon Ct #j, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2091-Avalon-Ct-J-Northbrook-IL-60062/62005881_zpid/,"$260,000",260000.0,Sold,-,s
+"1010 Angle Ave, Northbrook, IL 60062","3,750",https://www.zillow.com/homedetails/1010-Angle-Ave-Northbrook-IL-60062/3335866_zpid/,"$630,000",168.0,Sold,5,5
+"2534 Essex Dr, Northbrook, IL 60062","1,924",https://www.zillow.com/homedetails/2534-Essex-Dr-Northbrook-IL-60062/3343586_zpid/,"$375,000",194.9064449064449,Sold,4,4
+"101 Pointe Dr Unit 107, Northbrook, IL 60062","1,610",https://www.zillow.com/homedetails/101-Pointe-Dr-UNIT-107-Northbrook-IL-60062/2087742011_zpid/,"$219,000",136.0248447204969,Sold,2,2
+"718 York Ct, Northbrook, IL 60062","1,991",https://www.zillow.com/homedetails/718-York-Ct-Northbrook-IL-60062/3337279_zpid/,"$255,000",128.0763435459568,Sold,2,3
+"3851 Mission Hills Rd #w-203, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-W-203-Northbrook-IL-60062/3341184_zpid/,"$190,000",190000.0,Sold,-,s
+"1621 Mission Hills Rd #n-303, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1621-Mission-Hills-Rd-N-303-Northbrook-IL-60062/3341329_zpid/,"$325,000",325000.0,Sold,-,s
+"4215 Yorkshire Ln, Northbrook, IL 60062","2,802",https://www.zillow.com/homedetails/4215-Yorkshire-Ln-Northbrook-IL-60062/3331629_zpid/,"$575,000",205.21056388294076,Sold,4,3
+"620 Ballantrae Dr #1500a, Northbrook, IL 60062",,https://www.zillow.com/homedetails/620-Ballantrae-Dr-1500A-Northbrook-IL-60062/3329291_zpid/,"$175,000",175000.0,Sold,-,s
+"2845 Floral Dr, Northbrook, IL 60062","2,700",https://www.zillow.com/homedetails/2845-Floral-Dr-Northbrook-IL-60062/3341018_zpid/,"$527,000",195.1851851851852,Sold,4,3
+"1697 Central Ave, Northbrook, IL 60062","1,403",https://www.zillow.com/homedetails/1697-Central-Ave-Northbrook-IL-60062/3340009_zpid/,"$237,500",169.28011404134,Sold,3,2
+"1283 Gateway Ct, Northbrook, IL 60062","2,482",https://www.zillow.com/homedetails/1283-Gateway-Ct-Northbrook-IL-60062/2091549592_zpid/,"$859,652",346.3545527800161,Sold,3,3
+"1523 Cedar Ln, Northbrook, IL 60062","1,689",https://www.zillow.com/homedetails/1523-Cedar-Ln-Northbrook-IL-60062/3335653_zpid/,$1.20M,710.4795737122557,Sold,4,2
+"3222 Sanders Rd Apt 2d, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3222-Sanders-Rd-APT-2D-Northbrook-IL-60062/70453070_zpid/,"$102,000",102000.0,Sold,1, 
+"1671 Mission Hills Rd #s-202, Northbrook, IL 60062","2,485",https://www.zillow.com/homedetails/1671-Mission-Hills-Rd-S-202-Northbrook-IL-60062/3341372_zpid/,"$345,000",138.83299798792757,Sold,2,3
+"865 Huckleberry Ln, Northbrook, IL 60062","2,646",https://www.zillow.com/homedetails/865-Huckleberry-Ln-Northbrook-IL-60062/3334237_zpid/,"$445,000",168.17838246409676,Sold,4,4
+"3110 Pheasant Creek Dr Apt 303, Northbrook, IL 60062","1,350",https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-APT-303-Northbrook-IL-60062/2082686483_zpid/,"$180,000",133.33333333333334,Sold,2,2
+"3915 Mission Hills Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3915-Mission-Hills-Rd-Northbrook-IL-60062/3341497_zpid/,"$452,500",452500.0,Sold,-,s
+"2785 Shannon Rd, Northbrook, IL 60062","2,600",https://www.zillow.com/homedetails/2785-Shannon-Rd-Northbrook-IL-60062/3334377_zpid/,"$485,000",186.53846153846155,Sold,4,3
+"1903 Big Oak Ln, Northbrook, IL 60062","1,516",https://www.zillow.com/homedetails/1903-Big-Oak-Ln-Northbrook-IL-60062/3335715_zpid/,"$340,000",224.27440633245382,Sold,3,2
+"3025 Margo Ln, Northbrook, IL 60062","2,502",https://www.zillow.com/homedetails/3025-Margo-Ln-Northbrook-IL-60062/3340779_zpid/,"$637,500",254.79616306954438,Sold,4,3
+"1671 Mission Hills Rd Apt 202, Northbrook, IL 60062","2,485",https://www.zillow.com/homedetails/1671-Mission-Hills-Rd-APT-202-Northbrook-IL-60062/2082599563_zpid/,"$345,000",138.83299798792757,Sold,2,3
+"1621 Mission Hills Rd Apt 303, Northbrook, IL 60062","2,279",https://www.zillow.com/homedetails/1621-Mission-Hills-Rd-APT-303-Northbrook-IL-60062/2139476264_zpid/,"$325,000",142.60640631856077,Sold,2,3
+"2196 Scott Rd, Northbrook, IL 60062","1,300",https://www.zillow.com/homedetails/2196-Scott-Rd-Northbrook-IL-60062/3339329_zpid/,"$292,000",224.6153846153846,Sold,3,2
+"2350 White Oak Dr, Northbrook, IL 60062","2,699",https://www.zillow.com/homedetails/2350-White-Oak-Dr-Northbrook-IL-60062/3445934_zpid/,"$425,000",157.46572804742496,Sold,4,2
+"2861 Aspen Rd, Northbrook, IL 60062","2,678",https://www.zillow.com/homedetails/2861-Aspen-Rd-Northbrook-IL-60062/3340465_zpid/,"$408,500",152.53920836445107,Sold,3,4
+"1220 Rudolph Rd Apt 1p, Northbrook, IL 60062","1,775",https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-1P-Northbrook-IL-60062/2088130144_zpid/,"$356,000",200.56338028169014,Sold,2,2
+"1740 Mission Hills Rd Apt 209, Northbrook, IL 60062","1,500",https://www.zillow.com/homedetails/1740-Mission-Hills-Rd-APT-209-Northbrook-IL-60062/3341435_zpid/,"$301,000",200.66666666666666,Sold,2,4
+"3855 N Parkway Dr Apt 2d, Northbrook, IL 60062","1,000",https://www.zillow.com/homedetails/3855-N-Parkway-Dr-APT-2D-Northbrook-IL-60062/70453128_zpid/,"$105,500",105.5,Sold,1, 
+"1250 Rudolph Dr #4g, Northbrook, IL 60062","2,134",https://www.zillow.com/homedetails/1250-Rudolph-Dr-4G-Northbrook-IL-60062/3329748_zpid/,"$279,000",130.74039362699156,Sold,3,3
+"2091 Avalon Ct, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2091-Avalon-Ct-Northbrook-IL-60062/2084093320_zpid/,"$260,000",260000.0,Sold,2,2
+"2188 Dehne Rd, Northbrook, IL 60062","4,700",https://www.zillow.com/homedetails/2188-Dehne-Rd-Northbrook-IL-60062/3339373_zpid/,$1.45M,308.51063829787233,Sold,6,6
+"1616 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1616-Provenance-Way-Northbrook-IL-60062/258466448_zpid/,"$804,000",804000.0,Sold,-,f
+"3743 Radcliffe Dr, Northbrook, IL 60062","2,566",https://www.zillow.com/homedetails/3743-Radcliffe-Dr-Northbrook-IL-60062/3332148_zpid/,"$619,000",241.23148869836322,Sold,4,5
+"4110 Terri Lyn Ln, Northbrook, IL 60062","5,696",https://www.zillow.com/homedetails/4110-Terri-Lyn-Ln-Northbrook-IL-60062/3332006_zpid/,$1.09M,191.3623595505618,Sold,7,5
+"2508 Partridge Ln, Northbrook, IL 60062","3,429",https://www.zillow.com/homedetails/2508-Partridge-Ln-Northbrook-IL-60062/3335060_zpid/,"$690,000",201.22484689413824,Sold,4,3
+"4 The Court Of Hidden Wls, Northbrook, IL 60062","2,246",https://www.zillow.com/homedetails/4-The-Court-Of-Hidden-Wls-Northbrook-IL-60062/3332521_zpid/,"$455,000",202.58236865538734,Sold,3,3
+"2429 Oak Ave, Northbrook, IL 60062","1,792",https://www.zillow.com/homedetails/2429-Oak-Ave-Northbrook-IL-60062/3334947_zpid/,"$318,000",177.45535714285714,Sold,3,2
+"4110 Terri Lyn Ln, Northbrook, IL 60062","5,696",https://www.zillow.com/homedetails/4110-Terri-Lyn-Ln-Northbrook-IL-60062/2083076532_zpid/,$1.10M,193.11797752808988,Sold,7,5
+"3110 Pheasant Creek Dr #a115, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-A115-Northbrook-IL-60062/3332695_zpid/,"$180,000",180000.0,Sold,-,s
+"620 Ballantrae Dr #1a, Northbrook, IL 60062","2,200",https://www.zillow.com/homedetails/620-Ballantrae-Dr-1A-Northbrook-IL-60062/2084905700_zpid/,"$275,000",125.0,Sold,2,2
+"925 Spring Hill Dr Apt 212, Northbrook, IL 60062",,https://www.zillow.com/homedetails/925-Spring-Hill-Dr-APT-212-Northbrook-IL-60062/3332658_zpid/,"$149,000",149000.0,Sold,2,2
+"2248 Brentwood Rd, Northbrook, IL 60062","5,603",https://www.zillow.com/homedetails/2248-Brentwood-Rd-Northbrook-IL-60062/3339148_zpid/,$1.15M,205.2471890058897,Sold,5,5
+"1155 Meadow Rd #14a, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/1155-Meadow-Rd-14A-Northbrook-IL-60062/3336100_zpid/,"$162,500",147.72727272727272,Sold,2,1
+"1131 Saranac Ln, Northbrook, IL 60062","2,009",https://www.zillow.com/homedetails/1131-Saranac-Ln-Northbrook-IL-60062/3334359_zpid/,"$449,500",223.74315579890492,Sold,3,3
+"2222 Royal Ridge Dr, Northbrook, IL 60062","2,643",https://www.zillow.com/homedetails/2222-Royal-Ridge-Dr-Northbrook-IL-60062/58356002_zpid/,"$625,000",236.4737041241014,Sold,3,3
+"3110 Pheasant Creek Dr Apt 115, Northbrook, IL 60062","1,300",https://www.zillow.com/homedetails/3110-Pheasant-Creek-Dr-APT-115-Northbrook-IL-60062/2084793172_zpid/,"$180,000",138.46153846153845,Sold,2,2
+"1250 4g #4g, Rudolph, IL 60062","2,500",https://www.zillow.com/homedetails/1250-4g-4G-Rudolph-IL-60062/2082163105_zpid/,"$279,000",111.6,Sold,3,2
+"1005 Enfield Dr #11d4, Northbrook, IL 60062","1,700",https://www.zillow.com/homedetails/1005-Enfield-Dr-11D4-Northbrook-IL-60062/63689520_zpid/,"$365,000",214.7058823529412,Sold,3,3
+"12 The Court Of Harbinger Fls, Northbrook, IL 60062","1,525",https://www.zillow.com/homedetails/12-The-Court-Of-Harbinger-Fls-Northbrook-IL-60062/3333706_zpid/,"$425,000",278.6885245901639,Sold,2,3
+"1311 1st St, Northbrook, IL 60062",884,https://www.zillow.com/homedetails/1311-1st-St-Northbrook-IL-60062/3335340_zpid/,"$195,000",220.58823529411765,Sold,2,1
+"2115 Butternut Ln, Northbrook, IL 60062","2,415",https://www.zillow.com/homedetails/2115-Butternut-Ln-Northbrook-IL-60062/3339812_zpid/,"$510,000",211.1801242236025,Sold,4,2
+"1727 Chapel Ct, Northbrook, IL 60062","3,610",https://www.zillow.com/homedetails/1727-Chapel-Ct-Northbrook-IL-60062/3336644_zpid/,"$744,000",206.09418282548475,Sold,5,5
+"843 Winchester Ln, Northbrook, IL 60062","2,244",https://www.zillow.com/homedetails/843-Winchester-Ln-Northbrook-IL-60062/3333315_zpid/,"$330,000",147.05882352941177,Sold,3,3
+"606 Voltz Rd, Northbrook, IL 60062","4,518",https://www.zillow.com/homedetails/606-Voltz-Rd-Northbrook-IL-60062/3337741_zpid/,$1.07M,236.83045595396192,Sold,5,5
+"1532 Walters Ave, Northbrook, IL 60062","1,758",https://www.zillow.com/homedetails/1532-Walters-Ave-Northbrook-IL-60062/3337001_zpid/,"$485,000",275.8816837315131,Sold,4,2
+"2408 Burgundy Ln, Northbrook, IL 60062","2,355",https://www.zillow.com/homedetails/2408-Burgundy-Ln-Northbrook-IL-60062/3344398_zpid/,"$417,500",177.2823779193206,Sold,2,3
+"1964 Brentwood Rd, Northbrook, IL 60062","2,380",https://www.zillow.com/homedetails/1964-Brentwood-Rd-Northbrook-IL-60062/65548869_zpid/,"$495,000",207.98319327731093,Sold,3,3
+"1220 Rudolph Rd Apt 3m, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1220-Rudolph-Rd-APT-3M-Northbrook-IL-60062/3329669_zpid/,"$262,000",262000.0,Sold,2,2
+"3222 Sanders Rd Apt 2d, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3222-Sanders-Rd-APT-2D-Northbrook-IL-60062/2082987653_zpid/,"$102,000",102000.0,Sold,1, 
+"3835 Provenance Way, Northbrook, IL 60062","2,099",https://www.zillow.com/homedetails/3835-Provenance-Way-Northbrook-IL-60062/2087310214_zpid/,"$467,500",222.72510719390186,Sold,3,3
+"2951 Canterbury Dr, Northbrook, IL 60062","3,214",https://www.zillow.com/homedetails/2951-Canterbury-Dr-Northbrook-IL-60062/3340996_zpid/,"$550,000",171.12632233976353,Sold,4,3
+"1637 Highland Ave, Northbrook, IL 60062","4,000",https://www.zillow.com/homedetails/1637-Highland-Ave-Northbrook-IL-60062/3340026_zpid/,"$980,000",245.0,Sold,5,5
+"2077 Cambria Ct, Northbrook, IL 60062","2,000",https://www.zillow.com/homedetails/2077-Cambria-Ct-Northbrook-IL-60062/62005859_zpid/,"$321,000",160.5,Sold,3,2
+"1621 Mission Hills Rd #n-201, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1621-Mission-Hills-Rd-N-201-Northbrook-IL-60062/3341316_zpid/,"$270,000",270000.0,Sold,-,s
+"2613 Mulberry Ln, Northbrook, IL 60062","2,716",https://www.zillow.com/homedetails/2613-Mulberry-Ln-Northbrook-IL-60062/3338957_zpid/,"$665,000",244.84536082474227,Sold,5,4
+"3085 Pheasant Creek Dr Apt 305, Northbrook, IL 60062","1,120",https://www.zillow.com/homedetails/3085-Pheasant-Creek-Dr-APT-305-Northbrook-IL-60062/3332768_zpid/,"$170,000",151.78571428571428,Sold,2,2
+"1684 Mission Hills Rd #3-e, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1684-Mission-Hills-Rd-3-E-Northbrook-IL-60062/3341302_zpid/,"$270,000",270000.0,Sold,2,3
+"3801 Mission Hills Rd #e-306, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3801-Mission-Hills-Rd-E-306-Northbrook-IL-60062/3341139_zpid/,"$235,000",235000.0,Sold,-,s
+"2222 Center Ave, Northbrook, IL 60062","1,915",https://www.zillow.com/homedetails/2222-Center-Ave-Northbrook-IL-60062/3335387_zpid/,"$425,000",221.93211488250654,Sold,3,3
+"3140 Keystone Rd, Northbrook, IL 60062","3,780",https://www.zillow.com/homedetails/3140-Keystone-Rd-Northbrook-IL-60062/3333817_zpid/,"$925,000",244.7089947089947,Sold,5,5
+"101 Pointe Dr #1210, Northbrook, IL 60062",,https://www.zillow.com/homedetails/101-Pointe-Dr-1210-Northbrook-IL-60062/70452531_zpid/,"$260,000",260000.0,Sold,-,s
+"3140 Keystone Rd, Northbrook, IL 60062","3,780",https://www.zillow.com/homedetails/3140-Keystone-Rd-Northbrook-IL-60062/3333817_zpid/,"$925,000",244.7089947089947,Sold,5,5
+"1215 Woodview Ln, Northbrook, IL 60062","3,021",https://www.zillow.com/homedetails/1215-Woodview-Ln-Northbrook-IL-60062/253421796_zpid/,$1.41M,466.7328699106256,Sold,3,3
+"1768 Central Ave, Northbrook, IL 60062","1,600",https://www.zillow.com/homedetails/1768-Central-Ave-Northbrook-IL-60062/3340077_zpid/,"$285,000",178.125,Sold,2,2
+"3860 Mission Hills Rd #g-80, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-G-80-Northbrook-IL-60062/3342029_zpid/,"$450,000",450000.0,Sold,-,s
+"4131 Yorkshire Ln, Northbrook, IL 60062","2,802",https://www.zillow.com/homedetails/4131-Yorkshire-Ln-Northbrook-IL-60062/3331635_zpid/,"$545,000",194.50392576730906,Sold,4,3
+"3860 Mission Hills Rd Apt 317, Northbrook, IL 60062","2,425",https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-APT-317-Northbrook-IL-60062/3341917_zpid/,"$450,000",185.56701030927834,Sold,2,2
+"3860 Mission Hills Rd #g-67, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3860-Mission-Hills-Rd-G-67-Northbrook-IL-60062/3342016_zpid/,"$450,000",450000.0,Sold,-,s
+"3815 Gregory Dr, Northbrook, IL 60062","1,439",https://www.zillow.com/homedetails/3815-Gregory-Dr-Northbrook-IL-60062/3349859_zpid/,"$240,000",166.78248783877692,Sold,3,2
+"4050 Pheasant Creek Dr, Northbrook, IL 60062",,https://www.zillow.com/homedetails/4050-Pheasant-Creek-Dr-Northbrook-IL-60062/3332933_zpid/,"$155,000",155000.0,Sold,-,s
+"2750 The Mews, Northbrook, IL 60062","2,072",https://www.zillow.com/homedetails/2750-The-Mews-Northbrook-IL-60062/3330080_zpid/,"$350,000",168.9189189189189,Sold,6,2
+"1914 Farnsworth Ln Unit 210, Northbrook, IL 60062","2,000",https://www.zillow.com/homedetails/1914-Farnsworth-Ln-UNIT-210-Northbrook-IL-60062/70452712_zpid/,"$410,000",205.0,Sold,3,2
+"1914 Farnsworth Ln #p18, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1914-Farnsworth-Ln-P18-Northbrook-IL-60062/70452740_zpid/,"$410,000",410000.0,Sold,-,s
+"1684 Mission Hills Rd, Northbrook, IL 60062","1,620",https://www.zillow.com/homedetails/1684-Mission-Hills-Rd-Northbrook-IL-60062/2083819110_zpid/,"$189,000",116.66666666666667,Sold,2,3
+"3530 Merle Ln, Northbrook, IL 60062","2,505",https://www.zillow.com/homedetails/3530-Merle-Ln-Northbrook-IL-60062/3349785_zpid/,"$445,500",177.8443113772455,Sold,4,4
+"2311 Ash Ln, Northbrook, IL 60062","1,647",https://www.zillow.com/homedetails/2311-Ash-Ln-Northbrook-IL-60062/3334735_zpid/,"$500,000",303.58227079538557,Sold,4,2
+"1914 Farnsworth Ln #p19, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1914-Farnsworth-Ln-P19-Northbrook-IL-60062/70452741_zpid/,"$410,000",410000.0,Sold,-,s
+"3851 Mission Hills Rd Apt 203, Northbrook, IL 60062","1,747",https://www.zillow.com/homedetails/3851-Mission-Hills-Rd-APT-203-Northbrook-IL-60062/2085127078_zpid/,"$190,000",108.75787063537493,Sold,2,2
+"101 Pointe Dr Unit 210, Northbrook, IL 60062","1,800",https://www.zillow.com/homedetails/101-Pointe-Dr-UNIT-210-Northbrook-IL-60062/2083432256_zpid/,"$260,000",144.44444444444446,Sold,2,3
+"1300 Edgewood Ln, Northbrook, IL 60062","8,410",https://www.zillow.com/homedetails/1300-Edgewood-Ln-Northbrook-IL-60062/3337644_zpid/,$1.60M,190.24970273483947,Sold,6,7
+"2050 Valencia Dr Apt 311c, Northbrook, IL 60062","1,100",https://www.zillow.com/homedetails/2050-Valencia-Dr-APT-311C-Northbrook-IL-60062/3343967_zpid/,"$150,000",136.36363636363637,Sold,2,2
+"11 Harborside Dr, Northbrook, IL 60062",,https://www.zillow.com/homedetails/11-Harborside-Dr-Northbrook-IL-60062/3332591_zpid/,"$255,000",255000.0,Sold,-,s
+"3955 Mission Hills Rd N #1b, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3955-Mission-Hills-Rd-N-1B-Northbrook-IL-60062/3341094_zpid/,"$208,000",208000.0,Sold,-,s
+"2005 Valencia Dr Apt 109d, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2005-Valencia-Dr-APT-109D-Northbrook-IL-60062/3343989_zpid/,"$170,000",141.66666666666666,Sold,2,2
+"3715 Pebble Beach Rd, Northbrook, IL 60062","4,054",https://www.zillow.com/homedetails/3715-Pebble-Beach-Rd-Northbrook-IL-60062/3331817_zpid/,"$845,000",208.43611248149975,Sold,5,5
+"2584 Joshua Ln, Northbrook, IL 60062","3,138",https://www.zillow.com/homedetails/2584-Joshua-Ln-Northbrook-IL-60062/49913380_zpid/,"$615,000",195.98470363288718,Sold,4,4
+"2050 Glendale Ave, Northbrook, IL 60062","3,300",https://www.zillow.com/homedetails/2050-Glendale-Ave-Northbrook-IL-60062/3339806_zpid/,"$900,000",272.72727272727275,Sold,5,4
+"3050 Pheasant Creek Dr Apt 106, Northbrook, IL 60062","1,160",https://www.zillow.com/homedetails/3050-Pheasant-Creek-Dr-APT-106-Northbrook-IL-60062/2082865468_zpid/,"$155,000",133.6206896551724,Sold,2,2
+"3955 Mission Hills Rd Apt B, Northbrook, IL 60062","1,348",https://www.zillow.com/homedetails/3955-Mission-Hills-Rd-APT-B-Northbrook-IL-60062/2082950925_zpid/,"$208,000",154.3026706231454,Sold,2,2
+"3853 Provenance Way, Northbrook, IL 60062",,https://www.zillow.com/homedetails/3853-Provenance-Way-Northbrook-IL-60062/245564165_zpid/,"$470,000",470000.0,Sold,-,f
+"917 Bittersweet Dr, Northbrook, IL 60062","1,885",https://www.zillow.com/homedetails/917-Bittersweet-Dr-Northbrook-IL-60062/3336287_zpid/,"$404,000",214.3236074270557,Sold,4,2
+"1175 Lake Cook Rd Apt 510, Northbrook, IL 60062","2,272",https://www.zillow.com/homedetails/1175-Lake-Cook-Rd-APT-510-Northbrook-IL-60062/2143994298_zpid/,"$275,000",121.03873239436619,Sold,2,2
+"2150 Valencia Dr Apt 208a, Northbrook, IL 60062","1,200",https://www.zillow.com/homedetails/2150-Valencia-Dr-APT-208A-Northbrook-IL-60062/3343836_zpid/,"$135,000",112.5,Sold,2,2
+"900 Cedar Ln, Northbrook, IL 60062","1,555",https://www.zillow.com/homedetails/900-Cedar-Ln-Northbrook-IL-60062/3334714_zpid/,"$385,000",247.58842443729904,Sold,3,1
+"1671 Mission Hills Rd #s-409, Northbrook, IL 60062",,https://www.zillow.com/homedetails/1671-Mission-Hills-Rd-S-409-Northbrook-IL-60062/3341401_zpid/,"$220,000",220000.0,Sold,-,s
+"2520 Buckland Ln, Northbrook, IL 60062","2,557",https://www.zillow.com/homedetails/2520-Buckland-Ln-Northbrook-IL-60062/60259676_zpid/,"$445,000",174.03206883066093,Sold,3,3
+"2255 Southbridge Ln, Northbrook, IL 60062","2,376",https://www.zillow.com/homedetails/2255-Southbridge-Ln-Northbrook-IL-60062/3339829_zpid/,"$512,000",215.4882154882155,Sold,4,3
+"2775 Grace Rd, Northbrook, IL 60062","4,029",https://www.zillow.com/homedetails/2775-Grace-Rd-Northbrook-IL-60062/3334118_zpid/,"$750,000",186.15040953090096,Sold,4,4
+"2764 Grace Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2764-Grace-Rd-Northbrook-IL-60062/96787442_zpid/,"$750,000",750000.0,Sold,-,s
+"2928 White Pine Dr, Northbrook, IL 60062","2,400",https://www.zillow.com/homedetails/2928-White-Pine-Dr-Northbrook-IL-60062/3340884_zpid/,"$600,000",250.0,Sold,2,3
+"2781 Grace Rd, Northbrook, IL 60062",,https://www.zillow.com/homedetails/2781-Grace-Rd-Northbrook-IL-60062/96787443_zpid/,"$750,000",750000.0,Sold,-,s
